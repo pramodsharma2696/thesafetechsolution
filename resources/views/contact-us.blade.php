@@ -130,17 +130,14 @@
 
 						<div class="contact_info d-table pt-5">
 							<i class="fas fa-map-marker-alt color_org d-table-cell"></i>
-							<p class="d-table-cell pl-4 text-justify">11, Pathak Residency, NL Complex Rd,
-								Anand Nagar, Dahisar East,
-								Mumbai, Maharashtra 400068.
-								INDIA.
+							<p class="d-table-cell pl-4 text-justify">Unit Num 7-B, Crescent Industrial Estate, near Nepolion Garment Building, Chinchpada, Vasai East, Vasai-Virar, Maharashtra 401208
 							</p>
 						</div>
 
 						<div class="contact_info d-table pt-4">
 							<i class="fas fa-mobile-alt color_org d-table-cell"></i>
 							<p class="d-table-cell pl-4">
-								<span class="color_blue">Phone :</span> <a href="tel:+918767618098">+91 8767618098 / 8286282125</a>								
+								<span class="color_blue">Phone :</span> <a href="tel:+44 7491573459">+44 7491573459</a>								
 							</p>
 						</div>
 
@@ -148,7 +145,7 @@
 							<i class="fas fa-envelope color_org d-table-cell"></i>
 							<p class="d-table-cell pl-3">
 								<span class="color_blue">Email :</span> 
-								<a href="mailto:info@weblooks.in">info@weblooks.in</a>
+								<a href="mailto:info@weblooks.in">Support@thesafetechsolutions.com</a>
 							</p>
 						</div>
 
@@ -156,7 +153,7 @@
 							<a href="https://twitter.com/Weblooks_ITS" target="_blink">
 								<i class="fab fa-twitter pl-5"></i>
 							</a>
-							<a href="https://www.facebook.com/weblooksitservices" target="_blink">
+							<a href="https://www.facebook.com/thesafetechsolutions" target="_blink">
 								<i class="fab fa-facebook-f pl-4"></i></i>
 							</a>
 							<a href="https://in.linkedin.com/company/weblooks-it-services" target="_blink">

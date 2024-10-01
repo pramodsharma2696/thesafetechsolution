@@ -54,3 +54,22 @@ Route::get('/mt5-manager-support', function () {
 Route::get('/dedicated-server-support', function () {
     return view('dedicated-server-support');
 });
+
+Route::get('/bridge-and-gateway-support', function () {
+    return view('bridge-and-gateway-support');
+});
+Route::get('/crm-support', function () {
+    return view('crm-support');
+});
+Route::get('/plugins-support', function () {
+    return view('plugins-support');
+});
+Route::get('/ark-trading-platform-support', function () {
+    return view('ark-trading-platform-support');
+});
+Route::get('/vertex-trading-platform-support', function () {
+    return view('vertex-trading-platform-support');
+});
+Route::get('/ctrader-trading-platform-support', function () {
+    return view('ctrader-trading-platform-support');
+});

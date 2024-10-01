@@ -655,7 +655,7 @@ footer .footer_widget p {
   z-index: 1;
 }
 .copyright p a {
-  color: var(--orange);
+  color: #fff;
 }
 .footer_top{
   padding-bottom: 150px;

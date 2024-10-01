@@ -698,22 +698,7 @@
     </div>
 </div>
 
-<!-- show on scroll button -->
-<div id="sticky_btn d-none">
-    <button class="btn btn-default btn-info btn-margin btn-infos btn-font-size">
-        <a href="The Safetech Solutions-contact.html" target="_blink">
-            G<br>
-            E<br>
-            T<br>
-            A<br>
-            Q<br>
-            U<br>
-            O<br>
-            T<br>
-            E<br>
-        </a>
-        <!-- </button> -->
-</div>
+
 
 <script src="{{ asset('')}}assets/js/home_scroll_btn.js"></script>
 <script>

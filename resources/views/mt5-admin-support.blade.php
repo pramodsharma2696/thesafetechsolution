@@ -32,7 +32,6 @@
 		</div>
 	</section>
 </section>
-
 <!-- content-area-24-feb-2020 -->
 <section class="pt-3 pt_responsive">
     <div class="container-fluid p-0">
@@ -53,19 +52,93 @@
                 <div class="service_mark">
                     <h3 class="light_black">MT5 Admin Support</h3>
                     <p class="pt-4 text-justify">
-                    Welcome to the MT5 Admin Support page, where we provide comprehensive solutions to help brokers and administrators manage their MetaTrader 5 platform effectively. From server management and user account control to risk management and troubleshooting, our support services ensure seamless operations for your trading environment.
+                        Welcome to the MT5 Admin Support page, where we provide comprehensive solutions to help brokers and administrators manage their MetaTrader 5 platform effectively. From server management and user account control to risk management and troubleshooting, our support services ensure seamless operations for your trading environment.
                     </p>
-                    <p class="text-justify text_none">
-                        <strong>Server Setup & Management:</strong> – Configuring servers, monitoring resources, and ensuring optimal performance. <br>
-                        <strong>User Account Management:</strong> – Account creation, modification, password recovery, and group management. <br>
-                        <strong>Risk Management:</strong>  – Real-time trade monitoring, leverage control, and exposure analysis.
-                    </p>
-                    <p class="text-justify text_none">
-                        <strong>Financial Operations:</strong>  – Handling deposits, withdrawals, and commission settings. <br>
-                        <strong>Platform Customization:</strong> – Integration of custom plugins and third-party systems.<br>
-                        <strong>Security & Compliance:</strong> – Data encryption, user access control, and compliance reporting.
-                    </p>
-                    <p class="text-justify text_none">
+
+                   
+
+                    <h5>1. MT5 Server Management</h5>
+                    <ul>
+                        <li><strong>Server Setup & Configuration:</strong> Assistance in setting up and configuring the MT5 server environment, including database integration, data feeds, and liquidity connections.</li>
+                        <li><strong>Server Monitoring & Maintenance:</strong> Ensure smooth performance through resource monitoring and issue resolution.</li>
+                        <li><strong>Log Management:</strong> Access and interpret server logs for real-time troubleshooting.</li>
+                        <li><strong>Backup & Recovery:</strong> Protect your data with regular backups and comprehensive recovery solutions.</li>
+                    </ul>
+
+                    <h5>2. User Account Management</h5>
+                    <ul>
+                        <li><strong>Account Creation & Permissions:</strong> Handle user account setup, including assigning appropriate permissions and account types.</li>
+                        <li><strong>Account Modifications:</strong> Adjust leverage, balance, or permissions to meet your clients' evolving needs.</li>
+                        <li><strong>Password Recovery:</strong> Support for resolving login failures and resetting forgotten passwords.</li>
+                        <li><strong>Account Group Management:</strong> Customize groups for different traders with distinct settings.</li>
+                    </ul>
+
+                    <h5>3. Risk Management & Trade Monitoring</h5>
+                    <ul>
+                        <li><strong>Real-Time Trade Monitoring:</strong> View all open positions and get alerts for abnormal activity.</li>
+                        <li><strong>Margin & Leverage Management:</strong> Configure margin requirements to control risk exposure.</li>
+                        <li><strong>Stop-Out & Margin Call Settings:</strong> Protect client accounts from excessive losses.</li>
+                        <li><strong>Exposure Control:</strong> Monitor exposure across instruments to maintain platform stability.</li>
+                    </ul>
+
+                    <h5>4. Financial Operations</h5>
+                    <ul>
+                        <li><strong>Deposits, Withdrawals & Balance Adjustments:</strong> Manage client transactions.</li>
+                        <li><strong>Commission & Swap Settings:</strong> Customize rates and fees for different instruments.</li>
+                        <li><strong>Transaction Reports:</strong> Generate detailed reports for auditing purposes.</li>
+                    </ul>
+
+                    <h5>5. Market Data & Instrument Management</h5>
+                    <ul>
+                        <li><strong>Symbol Management:</strong> Add, remove, or modify trading instruments.</li>
+                        <li><strong>Custom Instruments:</strong> Create specialized trading instruments with tailored conditions.</li>
+                        <li><strong>Market Depth & Pricing:</strong> Ensure accurate market data with real-time pricing feeds.</li>
+                    </ul>
+
+                    <h5>6. Platform Customization & Integration</h5>
+                    <ul>
+                        <li><strong>Custom Plugins:</strong> Install and manage plugins to enhance functionality.</li>
+                        <li><strong>Third-Party Integration:</strong> Seamlessly integrate payment gateways and other systems.</li>
+                        <li><strong>Bridging Systems:</strong> Manage liquidity bridges for efficient order execution.</li>
+                    </ul>
+
+                    <h5>7. Security & Compliance</h5>
+                    <ul>
+                        <li><strong>User Permissions:</strong> Implement strict access policies.</li>
+                        <li><strong>Data Encryption:</strong> Ensure security with encryption and SSL certificates.</li>
+                        <li><strong>Audit & Compliance Reports:</strong> Generate reports to meet regulatory requirements.</li>
+                    </ul>
+
+                    <h5>8. Reporting & Analytics</h5>
+                    <ul>
+                        <li><strong>Performance Reports:</strong> Detailed reports on account performance and trading activity.</li>
+                        <li><strong>Exposure & Risk Reports:</strong> Analyze exposure levels to mitigate risk.</li>
+                        <li><strong>Customizable Reports:</strong> Generate tailored reports for various needs.</li>
+                    </ul>
+
+                    <h5>9. Troubleshooting & Support</h5>
+                    <ul>
+                        <li><strong>Server Connectivity Issues:</strong> Diagnose and resolve connectivity issues.</li>
+                        <li><strong>Error Resolution:</strong> Address common errors with clear guidance.</li>
+                        <li><strong>Platform Updates:</strong> Ensure the latest version is running with regular updates.</li>
+                        <li><strong>MetaQuotes Support:</strong> Assistance with escalations for advanced troubleshooting.</li>
+                    </ul>
+
+                    <h5>10. Client Training & Resources</h5>
+                    <ul>
+                        <li><strong>User Training:</strong> Provide training resources for optimal platform usage.</li>
+                        <li><strong>Knowledge Base:</strong> Build a comprehensive resource with FAQs and guides.</li>
+                        <li><strong>Video Tutorials:</strong> Offer tutorials covering MT5 basics and features.</li>
+                    </ul>
+
+                    <h4>Why Choose Our MT5 Admin Support?</h4>
+                    <ul>
+                        <li><strong>24/7 Expert Support:</strong> Around-the-clock support for uninterrupted operations.</li>
+                        <li><strong>Tailored Solutions:</strong> Customized solutions for your specific brokerage needs.</li>
+                        <li><strong>Experienced Professionals:</strong> A team of experts familiar with the intricacies of MT5.</li>
+                    </ul>
+
+                    <p class="text-justify">
                         If you're looking for reliable MetaTrader 5 Admin Support to enhance your platform's performance, efficiency, and security, <strong>contact our team today</strong>. We provide 24/7 expert support tailored to your specific needs.
                     </p>
                 </div>
@@ -77,11 +150,9 @@
 <!-- Additional CSS for styling -->
 <style>
     .banner_img img {
-        width: 100%;
-        height: auto; /* Adjust height automatically */
-        max-height: 450px; /* Limit max height for larger screens */
-        object-fit: cover; /* Maintain aspect ratio and cover container */
-        object-position: bottom; /* Focus more on the footer section of the image */
+        width: 100% !important;
+        max-height: 603px !important;
+        object-position: bottom;
     }
 
     @media (max-width: 768px) {

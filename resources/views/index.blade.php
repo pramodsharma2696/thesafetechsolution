@@ -166,11 +166,12 @@
 
 
                     <div class="service_content bg-white p-4 p-lg-4 p-xl-5 mb-5 mb-lg-0">
-                        <i class="flaticon-gears"></i>
-                        <h4 class="dark_gray font-weight-medium mb-4 mt-4">Other Services</h4>
+                        <!-- <i class="flaticon-gears"></i> -->
+                        <img src="{{ asset('')}}assets/images/services/home-icons/bridge-and-gateway-support.png" alt="Bridge and Gateway Support" class="img-fluid banner-responsive" style="width: 30%;height:auto">
+                        <h4 class="dark_gray font-weight-medium mb-4 mt-4">Bridge and Gateway Support</h4>
                         <p class="text-justify">In addition, we offer a range of supplementary services, including Website Maintenance, Bulk E-Mail/SMS, Google Apps Email, and more...</p>
 
-                        <a href="other-services.html" target="_blink" class="btn_icon font-weight-medium mt-5">
+                        <a href="{{ url('/bridge-and-gateway-support') }}" target="_blink" class="btn_icon font-weight-medium mt-5">
                             <i class="flaticon-right-arrow"></i>
                         </a>
                     </div>
@@ -189,21 +190,23 @@
                     </div>
 
                     <div class="service_content bg-white p-4 p-lg-4 p-xl-5 mb-5">
-                        <i class="flaticon-monitor-1"></i>
-                        <h4 class="dark_gray font-weight-medium mb-4 mt-4">Graphic Design</h4>
+                        <!-- <i class="flaticon-monitor-1"></i> -->
+                        <img src="{{ asset('')}}assets/images/services/home-icons/ark-trading-platform-support.png" alt="Ark Trading Platform Support" class="img-fluid banner-responsive" style="width: 30%;height:auto">
+                        <h4 class="dark_gray font-weight-medium mb-4 mt-4">Ark Trading Platform Support</h4>
                         <p class="text-justify">At Safetech Solutions IT Services, we provide comprehensive graphic design services to enhance your company's brand presence. Embracing the philosophy that...</p>
 
-                        <a href="graphic-design-company-mumbai.html" target="_blink" class="btn_icon font-weight-medium mt-5">
+                        <a href="{{ url('/ark-and-gateway-support') }}" target="_blink" class="btn_icon font-weight-medium mt-5">
                             <i class="flaticon-right-arrow"></i>
                         </a>
                     </div>
 
                     <div class="service_content bg-white p-4 p-lg-4 p-xl-5 mb-5 mb-lg-0">
-                        <i class="flaticon-data"></i>
-                        <h4 class="dark_gray font-weight-medium mb-4 mt-4">App Development</h4>
+                        <!-- <i class="flaticon-data"></i> -->
+                        <img src="{{ asset('')}}assets/images/services/home-icons/vertex-trading-platform-support.jpeg" alt="Vertex Trading Platform Support" class="img-fluid banner-responsive" style="width: 30%;height:auto">
+                        <h4 class="dark_gray font-weight-medium mb-4 mt-4">Vertex Trading Platform Support</h4>
                         <p class="text-justify">As a leading software development company, we offer cost-effective solutions to enhance your business. Transform the digital landscape with innovative applications tailored to your needs...</p>
 
-                        <a href="application-development-company-mumbai.html" target="_blink" class="btn_icon font-weight-medium mt-5">
+                        <a href="{{ url('/vertex-and-gateway-support') }}" target="_blink" class="btn_icon font-weight-medium mt-5">
                             <i class="flaticon-right-arrow"></i>
                         </a>
                     </div>

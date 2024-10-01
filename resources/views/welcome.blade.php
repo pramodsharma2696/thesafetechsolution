@@ -65,11 +65,20 @@
                                 <h5 class="font-weight-normal">
                                     <i class="flaticon-right-arrow-1 pr-1 blue d-inline-block font-weight-bold position_rel"></i>
                                     Robust solutions to drive your business forward
+
+                                    <span class="text-white pr-3">Phone:
+                                                <a class="text-white pl-2" href="tel:+44 7491573459">+44 7491 573459</a>
+                                            </span>
+                                            <span class="text-white">Email:
+                                                <a class="text-white pl-2" href="mailto:support@thesafetechsolutions.com">support@thesafetechsolutions.com</a>
+                                            </span>
+
+
                                 </h5>
                                 <ul class="list-unstyled home_links mt-3">
-                                    <li class="list-inline-item"><a href="website-design-company-mumbai.html" class="position_rel" target="_blink">Website Designing</a></li>
-                                    <li class="list-inline-item"><a href="web-development-company-mumbai.html" class="position_rel" target="_blink">Web Development</a></li>
-                                    <li class="list-inline-item pt-2 pt-sm-0"><a href="digital-marketing-company-mumbai.html" class="position_rel" target="_blink">Digital Marketing</a></li>
+                                    <li class="list-inline-item">Phone:  <a href="tel:+44 7491573459" class="position_rel" target="_blink">+44 7491573459</a></li>
+                                    <li class="list-inline-item">Email: <a href="web-development-company-mumbai.html" class="position_rel" target="_blink">support@thesafetechsolutions.com</a></li>
+                                    <!-- <li class="list-inline-item pt-2 pt-sm-0"><a href="digital-marketing-company-mumbai.html" class="position_rel" target="_blink">Digital Marketing</a></li> -->
                                 </ul>
                                 <a href="#" class="popup_main_btn web_btn font-weight-bold dark_gray mb-3 mt-5 d-inline-block position_rel">
                                     <span class="btn_text text-uppercase pl-2 ml-1">Get Started</span>
@@ -110,20 +119,22 @@
                         <div class="col-lg-4 col-md-9 mx-md-auto service_col1">
                             <div class="service_content bg-white p-4 p-lg-4 p-xl-5 mb-5">
                                 <i class="flaticon-bullhorn"></i>
-                                <h4 class="dark_gray font-weight-medium mb-4 mt-4">Digital Marketing</h4>
-                                <p class="text-justify">As the digital world expands, brands are increasingly moving online to reach their audiences. India now has the second-largest web user base in the world...</p>
+                                <h4 class="dark_gray font-weight-medium mb-4 mt-4">MT4 Admin Support</h4>
+                                <p class="text-justify">MetaTrader 4 (MT4) is a popular platform for trading Forex, CFDs, and other financial markets. Admin support for MT4 involves managing technical issues, account configurations, and helping users with trading operations..</p>
 
-                                <a href="digital-marketing-company-mumbai.html" target="_blink" class="btn_icon font-weight-medium mt-5">
+                                <a href="{{ url('/mt4-admin-support')}}" target="_blink" class="btn_icon font-weight-medium mt-5">
                                     <i class="flaticon-right-arrow"></i>
                                 </a>
                             </div>
 
                             <div class="service_content bg-white p-4 p-lg-4 p-xl-5 mb-5 mb-lg-0">
                                 <i class="flaticon-web"></i>
-                                <h4 class="dark_gray font-weight-medium mb-4 mt-4">Web Hosting</h4>
-                                <p class="text-justify">Web hosting involves renting server space to make a website accessible on the internet through web protocols. Safetech Solutions IT Services, based in Mumbai, offers dependable web hosting solutions to meet all your needs...</p>
+                                <h4 class="dark_gray font-weight-medium mb-4 mt-4">Dedicated Server Support</h4>
+                                <p class="text-justify">
+                                 Experience the ultimate in performance, security, and control with our Dedicated Server Support Services. Designed for businesses that require high availability and
+                                 customized hosting solutions...</p>
 
-                                <a href="web-hosting-company-mumbai.html" target="_blink" class="btn_icon font-weight-medium mt-5">
+                                <a href="{{ url('/dedicated-server-support')}}" target="_blink" class="btn_icon font-weight-medium mt-5">
                                     <i class="flaticon-right-arrow"></i>
                                 </a>
                             </div>
@@ -132,9 +143,9 @@
                         <div class="col-lg-4 col-md-9 mx-md-auto mt-lg-5 pt-lg-4">
                             <div class="service_content bg-white p-4 p-lg-4 p-xl-5 mb-5">
                                 <i class="flaticon-monitor"></i>
-                                <h4 class="dark_gray font-weight-medium mb-4 mt-4">Web Development</h4>
-                                <p class="text-justify">Web development broadly refers to the tasks associated with creating websites for hosting through intranet or web. The web development process incorporates website design, web content development, customer side / server-side scripting and network security setup,...</p>
-                                <a href="web-development-company-mumbai.html" target="_blink" class="btn_icon font-weight-medium mt-5">
+                                <h4 class="dark_gray font-weight-medium mb-4 mt-4">MT5 Admin Support</h4>
+                                <p class="text-justify">MT5 Admin Support page, where we provide comprehensive solutions to help brokers and administrators manage their MetaTrader 5 platform effectively....</p>
+                                <a href="{{ url('/mt5-admin-support')}}" target="_blink" class="btn_icon font-weight-medium mt-5">
                                     <i class="flaticon-right-arrow"></i>
                                 </a>
                             </div>
@@ -674,7 +685,7 @@
         </div>
 
         <!-- show on scroll button -->
-        <div id="sticky_btn">
+        <div id="sticky_btn d-none">
             <button class="btn btn-default btn-info btn-margin btn-infos btn-font-size">
                 <a href="The Safetech Solutions-contact.html" target="_blink">
                     G<br>

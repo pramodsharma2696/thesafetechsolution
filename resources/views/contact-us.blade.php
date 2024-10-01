@@ -145,7 +145,7 @@
 							<i class="fas fa-envelope color_org d-table-cell"></i>
 							<p class="d-table-cell pl-3">
 								<span class="color_blue">Email :</span> 
-								<a href="mailto:info@weblooks.in">Support@thesafetechsolutions.com</a>
+								<a href="mailto:info@weblooks.in">Support@thesafetechsolutions.com </a>
 							</p>
 						</div>
 

@@ -39,3 +39,12 @@ Route::get('/portfolio', function () {
 Route::get('/website-designing', function () {
     return view('website-designing');
 });
+Route::get('/mt4-admin-support', function () {
+    return view('mt4-admin-support');
+});
+Route::get('/mt5-admin-support', function () {
+    return view('mt5-admin-support');
+});
+Route::get('/dedicated-server-support', function () {
+    return view('dedicated-server-support');
+});

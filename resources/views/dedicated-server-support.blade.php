@@ -58,7 +58,7 @@
                 <p class="text-justify">
                     A dedicated server is a single physical server allocated exclusively to a single client. Unlike shared hosting, where resources are divided among multiple users, a dedicated server offers:
                 </p>
-                <ul class="space-text">
+                <ul class="space-text" data-aos="fade-up" data-aos-duration="3000">
                     <li><strong>Enhanced Performance:</strong> With dedicated resources, your applications run faster, providing a seamless experience for your users.</li>
                     <li><strong>Full Control:</strong> Customize your server environment according to your specific needs, including operating system, software installations, and security settings.</li>
                     <li><strong>Improved Security:</strong> Dedicated servers provide a higher level of security compared to shared hosting, reducing the risk of breaches and unauthorized access.</li>
@@ -66,7 +66,7 @@
 
                 <h4>Our Dedicated Server Support Services</h4>
                 <p class="text-justify">We offer comprehensive dedicated server support to ensure your server is configured, maintained, and optimized for peak performance. Our services include:</p>
-                <ul class="space-text">
+                <ul class="space-text" data-aos="fade-up" data-aos-duration="3000">
                     <li><strong>Server Setup and Configuration:</strong> Initial setup, OS installation, and software configuration.</li>
                     <li><strong>Ongoing Monitoring and Maintenance:</strong> 24/7 server monitoring, regular updates, and security patches.</li>
                     <li><strong>Security Management:</strong> Firewall configuration, IDS/IPS implementation, and regular security audits.</li>
@@ -75,7 +75,7 @@
                 </ul>
 
                 <h4>Why Choose Our Dedicated Server Support?</h4>
-                <ul class="space-text">
+                <ul class="space-text" data-aos="fade-up" data-aos-duration="3000">
                     <li><strong>Expertise and Experience:</strong> Our team consists of professionals with in-depth knowledge of server management, security, and performance optimization.</li>
                     <li><strong>Scalable Solutions:</strong> Flexible hosting solutions that can grow with your business.</li>
                     <li><strong>Commitment to Reliability:</strong> We ensure your hosting environment remains stable, secure, and efficient.</li>
@@ -89,7 +89,7 @@
 
                 <!-- Contact Details -->
                 <p><strong>Contact Us:</strong></p>
-                <ul class="space-text">
+                <ul class="space-text" data-aos="fade-up" data-aos-duration="3000">
                     <li>Email: <a href="mailto:support@thesafetechsolutions.com">support@thesafetechsolutions.com</a></li>
                     <li>Phone: <a href="tel:+44 7491573459">+44 7491573459</a></li>
                 </ul>

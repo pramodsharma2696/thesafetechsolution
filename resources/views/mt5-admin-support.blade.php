@@ -59,7 +59,7 @@
                    
 
                     <h5>1. MT5 Server Management</h5>
-                    <ul class="space-text">
+                    <ul class="space-text" data-aos="fade-up" data-aos-duration="3000">
                         <li><strong>Server Setup & Configuration:</strong> Assistance in setting up and configuring the MT5 server environment, including database integration, data feeds, and liquidity connections.</li>
                         <li><strong>Server Monitoring & Maintenance:</strong> Ensure smooth performance through resource monitoring and issue resolution.</li>
                         <li><strong>Log Management:</strong> Access and interpret server logs for real-time troubleshooting.</li>
@@ -67,7 +67,7 @@
                     </ul>
 
                     <h5>2. User Account Management</h5>
-                    <ul class="space-text">
+                    <ul class="space-text" data-aos="fade-up" data-aos-duration="3000">
                         <li><strong>Account Creation & Permissions:</strong> Handle user account setup, including assigning appropriate permissions and account types.</li>
                         <li><strong>Account Modifications:</strong> Adjust leverage, balance, or permissions to meet your clients' evolving needs.</li>
                         <li><strong>Password Recovery:</strong> Support for resolving login failures and resetting forgotten passwords.</li>
@@ -75,7 +75,7 @@
                     </ul>
 
                     <h5>3. Risk Management & Trade Monitoring</h5>
-                    <ul class="space-text">
+                    <ul class="space-text" data-aos="fade-up" data-aos-duration="3000">
                         <li><strong>Real-Time Trade Monitoring:</strong> View all open positions and get alerts for abnormal activity.</li>
                         <li><strong>Margin & Leverage Management:</strong> Configure margin requirements to control risk exposure.</li>
                         <li><strong>Stop-Out & Margin Call Settings:</strong> Protect client accounts from excessive losses.</li>
@@ -83,42 +83,42 @@
                     </ul>
 
                     <h5>4. Financial Operations</h5>
-                    <ul class="space-text">
+                    <ul class="space-text" data-aos="fade-up" data-aos-duration="3000">
                         <li><strong>Deposits, Withdrawals & Balance Adjustments:</strong> Manage client transactions.</li>
                         <li><strong>Commission & Swap Settings:</strong> Customize rates and fees for different instruments.</li>
                         <li><strong>Transaction Reports:</strong> Generate detailed reports for auditing purposes.</li>
                     </ul>
 
                     <h5>5. Market Data & Instrument Management</h5>
-                    <ul class="space-text">
+                    <ul class="space-text" data-aos="fade-up" data-aos-duration="3000">
                         <li><strong>Symbol Management:</strong> Add, remove, or modify trading instruments.</li>
                         <li><strong>Custom Instruments:</strong> Create specialized trading instruments with tailored conditions.</li>
                         <li><strong>Market Depth & Pricing:</strong> Ensure accurate market data with real-time pricing feeds.</li>
                     </ul>
 
                     <h5>6. Platform Customization & Integration</h5>
-                    <ul class="space-text">
+                    <ul class="space-text" data-aos="fade-up" data-aos-duration="3000">
                         <li><strong>Custom Plugins:</strong> Install and manage plugins to enhance functionality.</li>
                         <li><strong>Third-Party Integration:</strong> Seamlessly integrate payment gateways and other systems.</li>
                         <li><strong>Bridging Systems:</strong> Manage liquidity bridges for efficient order execution.</li>
                     </ul>
 
                     <h5>7. Security & Compliance</h5>
-                    <ul class="space-text">
+                    <ul class="space-text" data-aos="fade-up" data-aos-duration="3000">
                         <li><strong>User Permissions:</strong> Implement strict access policies.</li>
                         <li><strong>Data Encryption:</strong> Ensure security with encryption and SSL certificates.</li>
                         <li><strong>Audit & Compliance Reports:</strong> Generate reports to meet regulatory requirements.</li>
                     </ul>
 
                     <h5>8. Reporting & Analytics</h5>
-                    <ul class="space-text">
+                    <ul class="space-text" data-aos="fade-up" data-aos-duration="3000">
                         <li><strong>Performance Reports:</strong> Detailed reports on account performance and trading activity.</li>
                         <li><strong>Exposure & Risk Reports:</strong> Analyze exposure levels to mitigate risk.</li>
                         <li><strong>Customizable Reports:</strong> Generate tailored reports for various needs.</li>
                     </ul>
 
                     <h5>9. Troubleshooting & Support</h5>
-                    <ul class="space-text">
+                    <ul class="space-text" data-aos="fade-up" data-aos-duration="3000">
                         <li><strong>Server Connectivity Issues:</strong> Diagnose and resolve connectivity issues.</li>
                         <li><strong>Error Resolution:</strong> Address common errors with clear guidance.</li>
                         <li><strong>Platform Updates:</strong> Ensure the latest version is running with regular updates.</li>
@@ -146,7 +146,7 @@
 
                         <h4>Get Started with Our  MT5 Admin Support Today!</h4>
                         <p><strong>Contact Us:</strong></p>
-                        <ul class="space-text">
+                        <ul class="space-text" data-aos="fade-up" data-aos-duration="3000">
                             <li>Email: <a href="mailto:support@thesafetechsolutions.com">support@thesafetechsolutions.com</a></li>
                             <li>Phone: <a href="tel:+44 7491573459">+44 7491573459</a></li>
                         </ul>

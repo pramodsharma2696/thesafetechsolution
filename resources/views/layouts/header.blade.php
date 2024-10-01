@@ -82,7 +82,7 @@
 
                                                             <li class="col-xs-12 col-lg-6 list-style">
                                                             <ul class="list-unstyled">
-                                                            <li class="dropdown-header px-0 border-bottom text-uppercase mb-3"><a href="web-hosting-company-mumbai.html">Plugin Support Service<i class="far fa-hand-point-right pl-2"></i></a></li>
+                                                            <li class="dropdown-header px-0 border-bottom text-uppercase mb-3"><a href="web-hosting-company-mumbai.html">Swap Free Plugin<i class="far fa-hand-point-right pl-2"></i></a></li>
                                                             <li>
                                                                 <a href="#"><i class="fas fa-caret-right pr-3"></i>Free Plugin</a>
                                                             </li>
@@ -117,24 +117,6 @@
                                                                 <a href="#"><i class="fas fa-caret-right pr-3"></i>Client Side Copier</a>
                                                             </li>
 
-                                                            <li class="dropdown-header px-0 border-bottom text-uppercase mb-3"><a href="graphic-design-company-mumbai.html">
-                                                                    Graphic Design<i class="far fa-hand-point-right pl-2"></i>
-                                                                </a></li>
-                                                            <li>
-                                                                <a href="logo-design.html"><i class="fas fa-caret-right pr-3"></i>Logo Design</a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="creative-post.html"><i class="fas fa-caret-right pr-3"></i>Creative Post</a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="e-mail-template.html"><i class="fas fa-caret-right pr-3"></i>E-Mail Template</a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="business-stationary.html"><i class="fas fa-caret-right pr-3"></i>Business Stationary</a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="e-brochure-design.html"><i class="fas fa-caret-right pr-3"></i>E Brochure Design</a>
-                                                            </li>
                                                         </ul>
 
                                                             </li>

@@ -154,10 +154,11 @@
                     </div>
 
                     <div class="service_content bg-white p-4 p-lg-4 p-xl-5 mb-5">
-                        <i class="flaticon-browser"></i>
-                        <h4 class="dark_gray font-weight-medium mb-4 mt-4">Domain Purchase</h4>
+                        <!-- <i class="flaticon-browser"></i> -->
+                        <img src="{{ asset('')}}assets/images/services/home-icons/mt4-manager.png" alt="MT5 Manager Support" class="img-fluid banner-responsive" style="width: 30%;height:auto">
+                        <h4 class="dark_gray font-weight-medium mb-4 mt-4">MT4 Manager Support</h4>
                         <p class="text-justify">We provide a variety of domain names to suit your needs, with seamless integration into our hosting solutions.</p>
-                        <a href="https://The Safetech Solutions.supersite2.myorderbox.com/" target="_blank" class="btn_icon font-weight-medium mt-5">
+                        <a href="{{ url('/mt4-manager-support')}}" target="_blank" class="btn_icon font-weight-medium mt-5">
                             <i class="flaticon-right-arrow"></i>
                         </a>
                     </div>
@@ -177,11 +178,12 @@
 
                 <div class="col-lg-4 col-md-9 mx-md-auto">
                     <div class="service_content bg-white p-4 p-lg-4 p-xl-5 mb-5">
-                        <i class="flaticon-responsive-design"></i>
-                        <h4 class="dark_gray font-weight-medium mb-4 mt-4">Website Design</h4>
+                        <!-- <i class="flaticon-responsive-design"></i> -->
+                        <img src="{{ asset('')}}assets/images/services/home-icons/mt5-manager.png" alt="MT5 Manager Support" class="img-fluid banner-responsive" style="width: 30%;height:auto">
+                        <h4 class="dark_gray font-weight-medium mb-4 mt-4">MT5 Manager Support</h4>
                         <p class="text-justify">Website design is crucial for your business as your website serves as a key representative of your brand. The design of your site can significantly influence visitor attraction and engagement...</p>
 
-                        <a href="website-design-company-mumbai.html" target="_blink" class="btn_icon font-weight-medium mt-5">
+                        <a href="{{ url('/mt5-manager-support')}}" target="_blink" class="btn_icon font-weight-medium mt-5">
                             <i class="flaticon-right-arrow"></i>
                         </a>
                     </div>

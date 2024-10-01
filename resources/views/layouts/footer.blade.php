@@ -132,11 +132,11 @@
 				<div class="popup_btn_img w-100 p-4">
 					<img src="{{ asset('')}}assets/images/contact_img.webp">
 					<span class="text-white pr-2">Phone:
-						<a class="text-white pl-2" href="tel:+918767618098">+91 876-761-8098</a>
+						<a class="text-white pl-2" href="tel:+447491573459">+44 7491573459</a>
 					</span>
 					<br>
 					<span class="text-white">Email:
-						<a class="text-white pl-2" href="mailto:info@The Safetech Solutions.in">info@The Safetech Solutions.in</a>
+						<a class="text-white pl-2" href="mailto:support@thesafetechsolutions.com">support@thesafetechsolutions.com</a>
 					</span>
 				</div>
 			</div>
@@ -162,13 +162,21 @@
 						</div>
 						<div class="form-group mb-0">
 							<select class="my-2 py-2 pl-3" name="category" id="category">
-								<option value="Website Development">Website Development</option>
-								<option value="E-commerce Website">E-commerce Website</option>
-								<option value="Web Application Development">Web Application Development</option>
-								<option value="Digital Marketing (SEO, SMO...)">Digital Marketing (SEO, SMO...)</option>
-								<option value="Android App Development">Android App Development</option>
-								<option value="Domain & Hosting Services">Domain & Hosting Services</option>
-								<option value="Customized Software Development">Customized Software Development</option>
+              <option value="MT4 Admin Support">MT4 Admin Support</option>
+              <option value="MT4 Manager Support">MT4 Manager Support</option>
+              <option value="MT5 Admin Support">MT5 Admin Support</option>
+              <option value="MT5 Manager Support">MT5 Manager Support</option>
+              <option value="Bridge and Gateway Support">Bridge and Gateway Support</option>
+              <option value="CRM Support">CRM Support</option>
+              <option value="Plugins Support">Plugins Support</option>
+              <option value="Ark Trading Platform Support">Ark Trading Platform Support</option>
+              <option value="Vertex Trading Platform Support">Vertex Trading Platform Support</option>
+              <option value="CTrader Trading Platform Support">CTrader Trading Platform Support</option>
+              <option value="Custom Plugin Development">Custom Plugin Development</option>
+              <option value="PAMM and MAM Support">PAMM and MAM Support</option>
+              <option value="EA Creation">EA Creation</option>
+              <option value="Dedicated Server Support">Dedicated Server Support</option>
+              <option value="Website Creation">Website Creation</option>
 							</select>
 						</div>
 						<div class="Submit_msg text-center mt-2">

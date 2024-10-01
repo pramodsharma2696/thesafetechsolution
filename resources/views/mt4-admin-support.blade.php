@@ -22,7 +22,9 @@
                 <div class="col-lg-12">
                     <div class="banner_text mt-2 breadcrum">
                         <div class="heading_text pt-4">
+
                             <h5 class="dark_gray heading mb-0 pb-4 pt-5 wow fadeInDown">
+                                <a href="{{ url('/') }}" class="text-white"><i class="fas fa-home" style="transform: rotate(-2deg) !important;color: #000000;"> / </i></a>
                                 <span class="position_rel">MT4 Admin Support</span>
                             </h5>
                         </div>
@@ -56,61 +58,68 @@
                     </p>
 
                     <h5>1. MT4 Server Management:</h5>
-                    <ul>
+                    <ul class="space-text">
                         <li><strong>Server Setup & Configuration:</strong> Support administrators in setting up and maintaining MT4 server instances, including handling database configurations, setting up data feeds, and ensuring connectivity to liquidity providers.</li>
                         <li><strong>Server Performance Monitoring:</strong> Guide on monitoring server performance (CPU, RAM, disk usage), ensuring high availability, and troubleshooting slowness or downtime issues.</li>
                         <li><strong>Server Logs and Reports:</strong> How to access server logs to troubleshoot issues, view trade reports, and audit trails.</li>
                         <li><strong>Backup and Recovery:</strong> Procedures for backing up critical server data and restoring the server in case of failures.</li>
                     </ul>
                     <h5>2. User Account Management:</h5>
-                    <ul>
+                    <ul class="space-text">
                         <li><strong>Account Creation & Deletion:</strong> Steps to create, modify, or delete user accounts. Guide on assigning roles and permissions.</li>
                         <li><strong>Account Troubleshooting:</strong> Resolving issues such as login failures, forgotten passwords, and inactive accounts.</li>
                         <li><strong>Margin & Leverage Settings:</strong> Managing account-specific leverage settings, margin requirements, and trading rules.</li>
                         <li><strong>Password Resets:</strong> Process for resetting passwords for users and ensuring they meet security standards.</li>
                     </ul>
                     <h5>3. Trading & Order Management:</h5>
-                    <ul>
+                    <ul class="space-text">
                         <li><strong>Order Execution Troubleshooting:</strong> Assisting users with problems related to order placement, execution delays, or rejections.</li>
                         <li><strong>Pending Orders:</strong> Help users manage pending orders, including setting up stop loss, take profit, and other order types.</li>
                         <li><strong>Risk Management:</strong> Guide on setting up automated risk management tools such as margin calls, stop-outs, and exposure limits.</li>
                         <li><strong>Slippage and Requotes:</strong> Explaining slippage, requotes, and why they occur. Solutions to reduce or handle these issues.</li>
                     </ul>
                     <h5>4. Plugin and Integration Management:</h5>
-                    <ul>
+                    <ul class="space-text">
                         <li><strong>Custom Plugins:</strong> Guide on installing, configuring, and troubleshooting custom plugins for MT4.</li>
                         <li><strong>Liquidity Provider Integration:</strong> Ensure the proper setup of connections with liquidity providers and troubleshoot any pricing feed issues.</li>
                         <li><strong>Bridging Systems:</strong> Overview of using bridge systems to connect MT4 with external systems, such as other platforms or liquidity providers.</li>
                     </ul>
                     <h5>5. Client Terminal Support:</h5>
-                    <ul>
+                    <ul class="space-text">
                         <li><strong>MT4 Installation:</strong> Help traders install and configure the MT4 client terminal on Windows, Mac, and mobile devices.</li>
                         <li><strong>Connection Issues:</strong> Assist users with connection issues, firewall restrictions, and latency problems.</li>
                         <li><strong>Charting and Indicators:</strong> Troubleshooting issues related to chart display, custom indicators, or expert advisors (EAs).</li>
                         <li><strong>Error Codes:</strong> Common MT4 error codes (e.g., “Trade is Disabled”, “Invalid Price”, etc.) and steps to resolve them.</li>
                     </ul>
                     <h5>6. Security & Compliance:</h5>
-                    <ul>
+                    <ul class="space-text">
                         <li><strong>Data Security:</strong> Best practices for securing MT4 environments, including user authentication and encryption of communication.</li>
                         <li><strong>Compliance Monitoring:</strong> Ensure MT4 platform adheres to regulatory guidelines for financial markets, like transaction reporting and anti-money laundering (AML) requirements.</li>
                         <li><strong>Audit Trails:</strong> How to review trading logs for compliance audits and user activity.</li>
                     </ul>
                     <h5>7. Software Updates & Patches:</h5>
-                    <ul>
+                    <ul class="space-text">
                         <li><strong>MT4 Version Updates:</strong> Process for applying updates and patches to the MT4 server and client terminals.</li>
                         <li><strong>Compatibility Checks:</strong> Ensuring plugins, integrations, and third-party tools remain compatible with the latest MT4 updates.</li>
                     </ul>
                     <h5>8. General Troubleshooting:</h5>
-                    <ul>
+                    <ul class="space-text">
                         <li><strong>Common Errors and Fixes:</strong> A list of common MT4 errors (e.g., "No connection", "Invalid account") and their solutions.</li>
                         <li><strong>Contacting MetaQuotes Support:</strong> When and how to escalate issues to MetaQuotes (MT4’s parent company) for high-level technical support.</li>
                         <li><strong>Documentation:</strong> Reference to MetaTrader documentation, forums, and resources for advanced troubleshooting.</li>
                     </ul>
                     <h5>9. User Education & Best Practices:</h5>
-                    <ul>
+                    <ul class="space-text">
                         <li><strong>Training Resources:</strong> Offer traders and brokers educational content to help them maximize the MT4 platform’s functionality.</li>
                         <li><strong>FAQs and Help Guides:</strong> Develop a knowledge base for frequent questions related to account management, order execution, and platform features.</li>
                     </ul>
+
+                    <h4>Get Started with Our  MT4 Admin Support Today!</h4>
+                        <p><strong>Contact Us:</strong></p>
+                        <ul class="space-text">
+                            <li>Email: <a href="mailto:support@thesafetechsolutions.com">support@thesafetechsolutions.com</a></li>
+                            <li>Phone: <a href="tel:+44 7491573459">+44 7491573459</a></li>
+                        </ul>
 
                 </div>
             </div>
@@ -124,6 +133,13 @@
         width: 100% !important;
         max-height: 603px !important;
         object-position: bottom;
+    }
+
+    .space-text {
+        letter-spacing: 0.5px;
+        word-spacing: 2px;
+        line-height: 1.8;
+        margin-bottom: 15px
     }
 
     @media (max-width: 768px) {

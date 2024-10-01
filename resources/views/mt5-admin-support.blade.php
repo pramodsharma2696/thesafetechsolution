@@ -20,14 +20,15 @@
 		<div class="container-fluid pl-lg-5">
 			<div class="row">
 				<div class="col-lg-12">
-					<div class="banner_text mt-2 breadcrum">
-						<div class="heading_text pt-4">
-							<h5 class="dark_gray heading mb-0 pb-4 pt-5 wow fadeInDown">
-								<span class="position_rel">MT5 Admin Support</span>
-							</h5>
-						</div>
-					</div>
-				</div>
+                <div class="banner_text mt-2 breadcrum">
+                        <div class="heading_text pt-4">
+                            
+                            <h5 class="dark_gray heading mb-0 pb-4 pt-5 wow fadeInDown">
+                               <a href="{{ url('/') }}" class="text-white"><i class="fas fa-home" style="transform: rotate(-2deg) !important;color: #000000;"> / </i></a>
+                                <span class="position_rel">MT5 Admin Support</span>
+                            </h5>
+                        </div>
+                    </div>
 			</div>
 		</div>
 	</section>
@@ -58,7 +59,7 @@
                    
 
                     <h5>1. MT5 Server Management</h5>
-                    <ul>
+                    <ul class="space-text">
                         <li><strong>Server Setup & Configuration:</strong> Assistance in setting up and configuring the MT5 server environment, including database integration, data feeds, and liquidity connections.</li>
                         <li><strong>Server Monitoring & Maintenance:</strong> Ensure smooth performance through resource monitoring and issue resolution.</li>
                         <li><strong>Log Management:</strong> Access and interpret server logs for real-time troubleshooting.</li>
@@ -66,7 +67,7 @@
                     </ul>
 
                     <h5>2. User Account Management</h5>
-                    <ul>
+                    <ul class="space-text">
                         <li><strong>Account Creation & Permissions:</strong> Handle user account setup, including assigning appropriate permissions and account types.</li>
                         <li><strong>Account Modifications:</strong> Adjust leverage, balance, or permissions to meet your clients' evolving needs.</li>
                         <li><strong>Password Recovery:</strong> Support for resolving login failures and resetting forgotten passwords.</li>
@@ -74,7 +75,7 @@
                     </ul>
 
                     <h5>3. Risk Management & Trade Monitoring</h5>
-                    <ul>
+                    <ul class="space-text">
                         <li><strong>Real-Time Trade Monitoring:</strong> View all open positions and get alerts for abnormal activity.</li>
                         <li><strong>Margin & Leverage Management:</strong> Configure margin requirements to control risk exposure.</li>
                         <li><strong>Stop-Out & Margin Call Settings:</strong> Protect client accounts from excessive losses.</li>
@@ -82,42 +83,42 @@
                     </ul>
 
                     <h5>4. Financial Operations</h5>
-                    <ul>
+                    <ul class="space-text">
                         <li><strong>Deposits, Withdrawals & Balance Adjustments:</strong> Manage client transactions.</li>
                         <li><strong>Commission & Swap Settings:</strong> Customize rates and fees for different instruments.</li>
                         <li><strong>Transaction Reports:</strong> Generate detailed reports for auditing purposes.</li>
                     </ul>
 
                     <h5>5. Market Data & Instrument Management</h5>
-                    <ul>
+                    <ul class="space-text">
                         <li><strong>Symbol Management:</strong> Add, remove, or modify trading instruments.</li>
                         <li><strong>Custom Instruments:</strong> Create specialized trading instruments with tailored conditions.</li>
                         <li><strong>Market Depth & Pricing:</strong> Ensure accurate market data with real-time pricing feeds.</li>
                     </ul>
 
                     <h5>6. Platform Customization & Integration</h5>
-                    <ul>
+                    <ul class="space-text">
                         <li><strong>Custom Plugins:</strong> Install and manage plugins to enhance functionality.</li>
                         <li><strong>Third-Party Integration:</strong> Seamlessly integrate payment gateways and other systems.</li>
                         <li><strong>Bridging Systems:</strong> Manage liquidity bridges for efficient order execution.</li>
                     </ul>
 
                     <h5>7. Security & Compliance</h5>
-                    <ul>
+                    <ul class="space-text">
                         <li><strong>User Permissions:</strong> Implement strict access policies.</li>
                         <li><strong>Data Encryption:</strong> Ensure security with encryption and SSL certificates.</li>
                         <li><strong>Audit & Compliance Reports:</strong> Generate reports to meet regulatory requirements.</li>
                     </ul>
 
                     <h5>8. Reporting & Analytics</h5>
-                    <ul>
+                    <ul class="space-text">
                         <li><strong>Performance Reports:</strong> Detailed reports on account performance and trading activity.</li>
                         <li><strong>Exposure & Risk Reports:</strong> Analyze exposure levels to mitigate risk.</li>
                         <li><strong>Customizable Reports:</strong> Generate tailored reports for various needs.</li>
                     </ul>
 
                     <h5>9. Troubleshooting & Support</h5>
-                    <ul>
+                    <ul class="space-text">
                         <li><strong>Server Connectivity Issues:</strong> Diagnose and resolve connectivity issues.</li>
                         <li><strong>Error Resolution:</strong> Address common errors with clear guidance.</li>
                         <li><strong>Platform Updates:</strong> Ensure the latest version is running with regular updates.</li>
@@ -138,9 +139,18 @@
                         <li><strong>Experienced Professionals:</strong> A team of experts familiar with the intricacies of MT5.</li>
                     </ul>
 
+                       
                     <p class="text-justify">
                         If you're looking for reliable MetaTrader 5 Admin Support to enhance your platform's performance, efficiency, and security, <strong>contact our team today</strong>. We provide 24/7 expert support tailored to your specific needs.
                     </p>
+
+                        <h4>Get Started with Our  MT5 Admin Support Today!</h4>
+                        <p><strong>Contact Us:</strong></p>
+                        <ul class="space-text">
+                            <li>Email: <a href="mailto:support@thesafetechsolutions.com">support@thesafetechsolutions.com</a></li>
+                            <li>Phone: <a href="tel:+44 7491573459">+44 7491573459</a></li>
+                        </ul>
+
                 </div>
             </div>
         </div>
@@ -154,6 +164,12 @@
         max-height: 603px !important;
         object-position: bottom;
     }
+    .space-text{
+  letter-spacing: 0.5px;
+  word-spacing: 2px;
+  line-height: 1.8;
+  margin-bottom: 15px
+}
 
     @media (max-width: 768px) {
         .banner_img img {

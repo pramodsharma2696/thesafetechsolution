@@ -27,44 +27,93 @@
                                                     <div class="col-lg-5 col-sm-12">
                                                         <ul class="row list-unstyled">
                                                             <li class="col-xs-12 col-lg-6 list-style">
-                                                                <ul class="dropdown-headers list-unstyled">
-                                                                    <li class="dropdown-header px-0 border-bottom text-uppercase mb-3"><a href="website-design-company-mumbai.html">Website Designing<i class="far fa-hand-point-right pl-2"></i></a></li>
-                                                                    <li>
-                                                                        <a href="static-web-design.html"><i class="fas fa-caret-right pr-3"></i>Static Web Design</a>
-                                                                    </li>
-                                                                    <li>
-                                                                        <a href="dynamic-web-design.html"><i class="fas fa-caret-right pr-3"></i>Dynamic Web Design</a>
-                                                                    </li>
-                                                                    <li>
-                                                                        <a href="template-web-design.html"><i class="fas fa-caret-right pr-3"></i>Template Web Design</a>
-                                                                    </li>
-                                                                    <li>
-                                                                        <a href="customized-web-design.html"><i class="fas fa-caret-right pr-3"></i>Customized Web Design</a>
-                                                                    </li>
-                                                                    <li>
-                                                                        <a href="semi-ecommerce-web-design.html"><i class="fas fa-caret-right pr-3"></i>Semi-Ecommerce Web Design</a>
-                                                                    </li>
-                                                                    <li>
-                                                                        <a href="ecommerce-web-design.html"><i class="fas fa-caret-right pr-3"></i>E-Commerce Web Design</a>
-                                                                    </li>
-                                                                    <li>
-                                                                        <a href="responsive-web-design.html"><i class="fas fa-caret-right pr-3"></i>Responsive Web Design</a>
-                                                                    </li>
-                                                                    <li>
-                                                                        <a href="html-e-mailer-design.html"><i class="fas fa-caret-right pr-3"></i>HTML E-Mailer Design</a>
-                                                                    </li>
-                                                                    <li>
-                                                                        <a href="corporate-web-design.html"><i class="fas fa-caret-right pr-3"></i>Corporate Web Design</a>
-                                                                    </li>
+                                                            <ul class="dropdown-headers list-unstyled">
+                                                                        <li class="dropdown-header px-0 border-bottom text-uppercase mb-3">
+                                                                            <a href="website-design-company-mumbai.html">Website Designing<i class="far fa-hand-point-right pl-2"></i></a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="static-web-design.html"><i class="fas fa-caret-right pr-3"></i>Static Web Design</a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="dynamic-web-design.html"><i class="fas fa-caret-right pr-3"></i>Dynamic Web Design</a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="template-web-design.html"><i class="fas fa-caret-right pr-3"></i>Template Web Design</a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="customized-web-design.html"><i class="fas fa-caret-right pr-3"></i>Customized Web Design</a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="semi-ecommerce-web-design.html"><i class="fas fa-caret-right pr-3"></i>Semi-Ecommerce Web Design</a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="ecommerce-web-design.html"><i class="fas fa-caret-right pr-3"></i>E-Commerce Web Design</a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="responsive-web-design.html"><i class="fas fa-caret-right pr-3"></i>Responsive Web Design</a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="html-e-mailer-design.html"><i class="fas fa-caret-right pr-3"></i>HTML E-Mailer Design</a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="corporate-web-design.html"><i class="fas fa-caret-right pr-3"></i>Corporate Web Design</a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="landing-page-design.html"><i class="fas fa-caret-right pr-3"></i>Landing Page Design</a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="website-re-design.html"><i class="fas fa-caret-right pr-3"></i>Website Re-Design</a>
+                                                                        </li>
+                                                                        <li class="dropdown-header px-0 border-bottom text-uppercase mb-3">
+                                                                            <a href="#">Trading Platform Support<i class="far fa-hand-point-right pl-2"></i></a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="#"><i class="fas fa-caret-right pr-3"></i>MT4 Admin Support</a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="#"><i class="fas fa-caret-right pr-3"></i>MT4 Manager Support</a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="#"><i class="fas fa-caret-right pr-3"></i>MT5 Admin Support</a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="#"><i class="fas fa-caret-right pr-3"></i>MT5 Manager Support</a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="#"><i class="fas fa-caret-right pr-3"></i>Bridge and Gateway Support</a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="#"><i class="fas fa-caret-right pr-3"></i>CRM Support</a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="#"><i class="fas fa-caret-right pr-3"></i>Plugins Support</a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="#"><i class="fas fa-caret-right pr-3"></i>Ark Trading Platform Support</a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="#"><i class="fas fa-caret-right pr-3"></i>Vertex Trading Platform Support</a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="#"><i class="fas fa-caret-right pr-3"></i>CTrader Trading Platform Support</a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="#"><i class="fas fa-caret-right pr-3"></i>Custom Plugin Development</a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="#"><i class="fas fa-caret-right pr-3"></i>PAMM and MAM Support</a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="#"><i class="fas fa-caret-right pr-3"></i>EA Creation</a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="#"><i class="fas fa-caret-right pr-3"></i>Dedicated Server Support</a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="#"><i class="fas fa-caret-right pr-3"></i>Website Creation</a>
+                                                                        </li>
+                                                                    </ul>
 
-                                                                    <li>
-                                                                        <a href="landing-page-design.html"><i class="fas fa-caret-right pr-3"></i>Landing Page Design</a>
-                                                                    </li>
-                                                                    <li>
-                                                                        <a href="website-re-design.html"><i class="fas fa-caret-right pr-3"></i>Website Re-Design</a>
-                                                                    </li>
-
-                                                                </ul>
                                                             </li>
 
                                                             <li class="col-xs-12 col-lg-6 list-style">

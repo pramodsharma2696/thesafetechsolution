@@ -23,6 +23,7 @@
 					<div class="banner_text mt-2 breadcrum">
 						<div class="heading_text pt-4">
 							<h5 class="dark_gray heading mb-0 pb-4 pt-5 wow fadeInDown">
+                            <a href="{{ url('/') }}" class="text-white"><i class="fas fa-home" style="transform: rotate(-2deg) !important;color: #000000;"> / </i></a>
 								<span class="position_rel">Dedicated Server Support</span>
 							</h5>
 						</div>
@@ -46,7 +47,7 @@
                 <p class="text-justify">
                     A dedicated server is a single physical server allocated exclusively to a single client. Unlike shared hosting, where resources are divided among multiple users, a dedicated server offers:
                 </p>
-                <ul>
+                <ul class="space-text">
                     <li><strong>Enhanced Performance:</strong> With dedicated resources, your applications run faster, providing a seamless experience for your users.</li>
                     <li><strong>Full Control:</strong> Customize your server environment according to your specific needs, including operating system, software installations, and security settings.</li>
                     <li><strong>Improved Security:</strong> Dedicated servers provide a higher level of security compared to shared hosting, reducing the risk of breaches and unauthorized access.</li>
@@ -54,7 +55,7 @@
 
                 <h4>Our Dedicated Server Support Services</h4>
                 <p class="text-justify">We offer comprehensive dedicated server support to ensure your server is configured, maintained, and optimized for peak performance. Our services include:</p>
-                <ul>
+                <ul class="space-text">
                     <li><strong>Server Setup and Configuration:</strong> Initial setup, OS installation, and software configuration.</li>
                     <li><strong>Ongoing Monitoring and Maintenance:</strong> 24/7 server monitoring, regular updates, and security patches.</li>
                     <li><strong>Security Management:</strong> Firewall configuration, IDS/IPS implementation, and regular security audits.</li>
@@ -63,7 +64,7 @@
                 </ul>
 
                 <h4>Why Choose Our Dedicated Server Support?</h4>
-                <ul>
+                <ul class="space-text">
                     <li><strong>Expertise and Experience:</strong> Our team consists of professionals with in-depth knowledge of server management, security, and performance optimization.</li>
                     <li><strong>Scalable Solutions:</strong> Flexible hosting solutions that can grow with your business.</li>
                     <li><strong>Commitment to Reliability:</strong> We ensure your hosting environment remains stable, secure, and efficient.</li>
@@ -77,7 +78,7 @@
 
                 <!-- Contact Details -->
                 <p><strong>Contact Us:</strong></p>
-                <ul>
+                <ul class="space-text">
                     <li>Email: <a href="mailto:support@thesafetechsolutions.com">support@thesafetechsolutions.com</a></li>
                     <li>Phone: <a href="tel:+44 7491573459">+44 7491573459</a></li>
                 </ul>
@@ -91,7 +92,12 @@
     .text-justify {
         text-align: justify;
     }
-
+    .space-text {
+        letter-spacing: 0.5px;
+        word-spacing: 2px;
+        line-height: 1.8;
+        margin-bottom: 15px
+    }
     @media (max-width: 768px) {
         .banner_img img {
             max-height: 300px; /* Reduce height on smaller screens */

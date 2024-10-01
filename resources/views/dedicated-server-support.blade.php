@@ -35,8 +35,19 @@
 </section>
 
 <section class="pt-5 pt_responsive">
-    <div class="container">
-        <div class="row pt-5">
+<div class="container-fluid p-0">
+        <!-- Full-width Banner Image focusing on footer section -->
+        <div class="row">
+            <div class="col-lg-12 p-0">
+                <div class="banner_img">
+                    <img src="{{ asset('')}}assets/images/services/inner-page/dedicated-server-support.jpg" alt="MT5 Admin Support Banner" class="img-fluid w-100 banner-responsive">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container pt-5">
+        <div class="row">
             <div class="col-lg-12">
                 <h3 class="light_black">Dedicated Server Support</h3>
                 <p class="pt-4 text-justify">
@@ -89,6 +100,11 @@
 
 <!-- Additional CSS to handle responsive layout -->
 <style>
+     .banner_img img {
+        width: 100% !important;
+        max-height: 603px !important;
+        object-position: bottom;
+    }
     .text-justify {
         text-align: justify;
     }

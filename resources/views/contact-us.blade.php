@@ -25,7 +25,7 @@
 					<div class="banner_text mt-2 breadcrum">
 						<div class="heading_text pt-4">
 							<h5 class="dark_gray heading mb-0 pb-lg-4 pt-lg-5 wow fadeInDown">
-								<span class="position_rel">Connect With Weblooks</span>
+								<span class="position_rel">Connect With The Safetech Solutions</span>
 							</h5>
 						</div>
 					</div>

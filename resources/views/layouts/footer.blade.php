@@ -1,169 +1,105 @@
 <footer class="main_footer footer_bg">
   <div class="container">
     <div class="btn_talk pt-5 text-center">
-      <a href="The Safetech Solutions-contact.html" target="_blink" class="gaq_btn text-white px-4 py-2 font-weight-medium experts_btn font-weight-medium">
+      <a href="https://api.whatsapp.com/send?phone=447491573459" target="_blink" class="gaq_btn text-white px-4 py-2 font-weight-medium experts_btn font-weight-medium">
         <i class="flaticon-users pr-2"></i>Talk To Our Expert
         <i class="gaq_dot ml-3"><span></span></i>
       </a>
     </div>
     <div class="footer_top pt-5 mb-md-4">
-      <div class="row">
-        <div class="col-xl-4 col-lg-4">
-          <div class="user_links footer_widget">
-            <h6 class="text-uppercase  font-weight-bold text-white pb-xl-4">useful links</h6>
-            <div class="row">
-              <div class="col-xl-6 col-lg-7 col-md-6">
-              <ul class="list-unstyled footer_text">
-                        <li><a class="text-white" href="https://crm.strelasoft.com/" target="_blank">CRM</a></li>
-                        <li><a class="text-white" href="https://pamm.strelasoft.com/" target="_blank">PAMM</a></li>
-                        <li><a class="text-white" href="https://mamm.strelasoft.com/" target="_blank">MAMM</a></li>
-                        <li><a class="text-white" href="https://social.strelasoft.com/" target="_blank">Social Copier</a></li>
-                        <li><a class="text-white" href="https://reconciliation.strelasoft.com/" target="_blank">Reconciliation Plugin</a></li>
-                    </ul>
-              </div>
-              <div class="col-xl-6 col-lg-5 col-md-6">
-              <ul class="list-unstyled footer_text pl-xl-3">
-                        <li><a class="text-white" href="https://swap-free.strelasoft.com/login/" target="_blank">Swap Free Plugin</a></li>
-                        <li><a class="text-white" href="https://deposit-bonus.strelasoft.com/" target="_blank">Deposit Bonus Plugin</a></li>
-                        <li><a class="text-white" href="https://drawdown.strelasoft.com/login/" target="_blank">Drawdown Plugin</a></li>
-                       
-                    </ul>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-xl-8 col-lg-8">
-          <div class="row">
-            <div class="col-xl-3 col-lg-4 col-md-6">
-              <div class="web_services footer_widget">
-                <h6 class="text-uppercase  font-weight-bold text-white pb-4">services</h6>
-                <ul class="list-unstyled footer_text">
-                  <li>
-                    <a class="text-white" href="{{ url('/mt4-admin-support') }}" target="_blank">MT4 Admin Support</a>
-                  </li>
-                  <li>
-                    <a class="text-white" href="{{ url('/mt4-manager-support') }}" target="_blank">MT4 Manager Support</a>
-                  </li>
-                  <li>
-                    <a class="text-white" href="{{ url('/mt5-admin-support') }}" target="_blank">MT5 Admin Support</a>
-                  </li>
-                  <li>
-                    <a class="text-white" href="{{ url('/mt5-manager-support') }}" target="_blank">MT5 Manager Support</a>
-                  </li>
-                  <li>
-                    <a class="text-white" href="{{ url('/bridge-and-gateway-support') }}" target="_blank">Bridge and Gateway Support</a>
-                  </li>
-                  <li>
-                    <a class="text-white" href="{{ url('/crm-support') }}" target="_blank">CRM Support</a>
-                  </li>
-                  <li>
-                    <a class="text-white" href="{{ url('/plugins-support') }}" target="_blank">Plugins Support</a>
-                  </li>
-                  <li>
-                    <a class="text-white" href="{{ url('/ark-trading-platform-support') }}" target="_blank">Ark Trading Platform Support</a>
-                  </li>
-                  <li>
-                    <a class="text-white" href="{{ url('/vertex-trading-platform-support') }}" target="_blank">Vertex Trading Platform Support</a>
-                  </li>
-                  <li>
-                    <a class="text-white" href="{{ url('/ctrader-trading-platform-support') }}" target="_blank">CTrader Trading Platform Support</a>
-                  </li>
-                  <li>
-                    <a class="text-white" href="{{ url('/custom-plugin-development') }}" target="_blank">Custom Plugin Development</a>
-                  </li>
-                  <li>
-                    <a class="text-white" href="{{ url('/pamm-mam-support') }}" target="_blank">PAMM and MAM Support</a>
-                  </li>
-                  <li>
-                    <a class="text-white" href="{{ url('/ea-creation') }}" target="_blank">EA Creation</a>
-                  </li>
-                  <li>
-                    <a class="text-white" href="{{ url('/dedicated-server-support') }}" target="_blank">Dedicated Server Support</a>
-                  </li>
-                  <li>
-                    <a class="text-white" href="{{ url('/website-creation') }}" target="_blank">Website Creation</a>
-                  </li>
-
-                </ul>
-              </div>
-            </div>
-
-            <div class="col-xl-3 col-lg-4 col-md-6">
-              <div class="web_services footer_widget">
-                <h6 class="text-uppercase  font-weight-bold text-white pb-4">MT5 Plugin</h6>
-                <ul class="list-unstyled footer_text">
-                <li>
-                    <a class="text-white" href="{{ url('/swap-free-plugin') }}" target="_blank">Swap Free Plugin</a>
-                </li>
-                <li>
-                    <a class="text-white" href="{{ url('/bonus-plugin') }}" target="_blank">Bonus Plugin</a>
-                </li>
-                <li>
-                    <a class="text-white" href="{{ url('/drawdown-plugin') }}" target="_blank">Drawdown Plugin</a>
-                </li>
-                <li>
-                    <a class="text-white" href="{{ url('/brokers-copier') }}" target="_blank">Brokers Copier (For MT5)</a>
-                </li>
-                <li>
-                    <a class="text-white" href="{{ url('/social-trading') }}" target="_blank">Social Trading</a>
-                </li>
-                <li>
-                    <a class="text-white" href="{{ url('/crm') }}" target="_blank">CRM</a>
-                </li>
-                <li>
-                    <a class="text-white" href="{{ url('/web-manager') }}" target="_blank">Web Manager</a>
-                </li>
-                <li>
-                    <a class="text-white" href="{{ url('/reconciliation-plugin') }}" target="_blank">Reconciliation Plugin</a>
-                </li>
-                <li>
-                    <a class="text-white" href="{{ url('/mt5-api') }}" target="_blank">MT5 API’s</a>
-                </li>
-                <li>
-                    <a class="text-white" href="{{ url('/pamm') }}" target="_blank">PAMM</a>
-                </li>
-                <li>
-                    <a class="text-white" href="{{ url('/client-side-copier') }}" target="_blank">Client Side Copier</a>
-                </li>
-
-
-                </ul>
-              </div>
-            </div>
-
-            <div class="col-xl-5 col-lg-4 col-md-6">
-              <div class="footer_widget pl-lg-3">
-                <div class="follow_us pt-sm-4 pt-4 pt-md-0 pt-xl-0">
-                  <h6 class="text-uppercase  font-weight-bold text-white pb-4">follow us on</h6>
-                  <div class="social_links">
-                    <a class="d-inline-block text-center text-white rounded-circle" href="https://www.facebook.com/The Safetech Solutionsitservices" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                    <a class="d-inline-block text-center text-white rounded-circle" href="https://twitter.com/The Safetech Solutions_ITS" target="_blank"><i class="fab fa-twitter"></i></a>
-                    <a class="d-inline-block text-center text-white rounded-circle" href="https://www.instagram.com/The Safetech Solutionsitservices/" target="_blank"><i class="fab fa-instagram"></i></a>
-                    <a class="d-inline-block text-center text-white rounded-circle" href="https://in.linkedin.com/company/The Safetech Solutions-it-services" target="_blank"><i class="fab fa-linkedin-in"></i></a>
-                    <a class="d-inline-block text-center text-white rounded-circle" href="https://www.youtube.com/channel/UCxVwF0rj9iXVIyhBkbX6xEw" target="_blank"><i class="fab fa-youtube"></i></a>
-                  </div>
-                </div>
-                <div class="footer_sub mt-3">
-                  <h6 class="text-uppercase  font-weight-bold text-white pt-4">get started</h6>
-                  <p class="text-white">Subscribe our newsletter to get latest updates on technology, etc.</p>
-                  <!--for below form action="store-newsletter.php" -->
-                  <form name="newsletter_form" id="newsletter_form" method="POST" novalidate="novalidate">
-                    <div class="form-group mb-0">
-                      <input type="email" name="email" placeholder="Enter Your E-mail ID...">
-                      <input type="hidden" name="form_type" value="4">
-                    </div>
-                    <button type="submit" class="gaq_btn border-0 font-weight-bold text-white px-3 mt-3 mb-4 float-xl-right d-inline-block position_rel newsletter_btn">
-                      <span class="btn_text text-uppercase ml-2">subscribe</span>
-                    </button>
-                  </form>
-                </div>
-              </div>
-            </div>
+  <div class="row">
+    <div class="col-xl-3 col-lg-3 col-md-6">
+      <div class="user_links footer_widget">
+        <h6 class="text-uppercase font-weight-bold text-white pb-xl-4">useful links</h6>
+        <div class="row">
+          <div class="col-xl-12 col-lg-12 col-md-12">
+            <ul class="list-unstyled footer_text">
+              <li><a class="text-white" href="https://crm.strelasoft.com/" target="_blank">CRM</a></li>
+              <li><a class="text-white" href="https://pamm.strelasoft.com/" target="_blank">PAMM</a></li>
+              <li><a class="text-white" href="https://mamm.strelasoft.com/" target="_blank">MAMM</a></li>
+              <li><a class="text-white" href="https://social.strelasoft.com/" target="_blank">Social Copier</a></li>
+              <li><a class="text-white" href="https://reconciliation.strelasoft.com/" target="_blank">Reconciliation Plugin</a></li>
+              <li><a class="text-white" href="https://swap-free.strelasoft.com/login/" target="_blank">Swap Free Plugin</a></li>
+              <li><a class="text-white" href="https://deposit-bonus.strelasoft.com/" target="_blank">Deposit Bonus Plugin</a></li>
+              <li><a class="text-white" href="https://drawdown.strelasoft.com/login/" target="_blank">Drawdown Plugin</a></li>
+            </ul>
           </div>
         </div>
       </div>
     </div>
+
+    <div class="col-xl-3 col-lg-3 col-md-6">
+      <div class="web_services footer_widget">
+        <h6 class="text-uppercase font-weight-bold text-white pb-4">services</h6>
+        <ul class="list-unstyled footer_text">
+          <li><a class="text-white" href="{{ url('/mt4-admin-support') }}" target="_blank">MT4 Admin Support</a></li>
+          <li><a class="text-white" href="{{ url('/mt4-manager-support') }}" target="_blank">MT4 Manager Support</a></li>
+          <li><a class="text-white" href="{{ url('/mt5-admin-support') }}" target="_blank">MT5 Admin Support</a></li>
+          <li><a class="text-white" href="{{ url('/mt5-manager-support') }}" target="_blank">MT5 Manager Support</a></li>
+          <li><a class="text-white" href="{{ url('/bridge-and-gateway-support') }}" target="_blank">Bridge and Gateway Support</a></li>
+          <li><a class="text-white" href="{{ url('/crm-support') }}" target="_blank">CRM Support</a></li>
+          <li><a class="text-white" href="{{ url('/plugins-support') }}" target="_blank">Plugins Support</a></li>
+          <li><a class="text-white" href="{{ url('/ark-trading-platform-support') }}" target="_blank">Ark Trading Platform Support</a></li>
+          <li><a class="text-white" href="{{ url('/vertex-trading-platform-support') }}" target="_blank">Vertex Trading Platform Support</a></li>
+          <li><a class="text-white" href="{{ url('/ctrader-trading-platform-support') }}" target="_blank">CTrader Trading Platform Support</a></li>
+          <li><a class="text-white" href="{{ url('/custom-plugin-development') }}" target="_blank">Custom Plugin Development</a></li>
+          <li><a class="text-white" href="{{ url('/pamm-mam-support') }}" target="_blank">PAMM and MAM Support</a></li>
+          <li><a class="text-white" href="{{ url('/ea-creation') }}" target="_blank">EA Creation</a></li>
+          <li><a class="text-white" href="{{ url('/dedicated-server-support') }}" target="_blank">Dedicated Server Support</a></li>
+          <li><a class="text-white" href="{{ url('/website-creation') }}" target="_blank">Website Creation</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="col-xl-3 col-lg-3 col-md-6">
+      <div class="web_services footer_widget">
+        <h6 class="text-uppercase font-weight-bold text-white pb-4">MT5 Plugin</h6>
+        <ul class="list-unstyled footer_text">
+          <li><a class="text-white" href="{{ url('/swap-free-plugin') }}" target="_blank">Swap Free Plugin</a></li>
+          <li><a class="text-white" href="{{ url('/bonus-plugin') }}" target="_blank">Bonus Plugin</a></li>
+          <li><a class="text-white" href="{{ url('/drawdown-plugin') }}" target="_blank">Drawdown Plugin</a></li>
+          <li><a class="text-white" href="{{ url('/brokers-copier') }}" target="_blank">Brokers Copier (For MT5)</a></li>
+          <li><a class="text-white" href="{{ url('/social-trading') }}" target="_blank">Social Trading</a></li>
+          <li><a class="text-white" href="{{ url('/crm') }}" target="_blank">CRM</a></li>
+          <li><a class="text-white" href="{{ url('/web-manager') }}" target="_blank">Web Manager</a></li>
+          <li><a class="text-white" href="{{ url('/reconciliation-plugin') }}" target="_blank">Reconciliation Plugin</a></li>
+          <li><a class="text-white" href="{{ url('/mt5-api') }}" target="_blank">MT5 API’s</a></li>
+          <li><a class="text-white" href="{{ url('/pamm') }}" target="_blank">PAMM</a></li>
+          <li><a class="text-white" href="{{ url('/client-side-copier') }}" target="_blank">Client Side Copier</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="col-xl-3 col-lg-3 col-md-6">
+      <div class="footer_widget pl-lg-3">
+        <div class="follow_us pt-sm-4 pt-4 pt-md-0 pt-xl-0">
+          <h6 class="text-uppercase font-weight-bold text-white pb-4">follow us on</h6>
+          <div class="social_links">
+            <a class="d-inline-block text-center text-white rounded-circle" href="https://www.facebook.com/The Safetech Solutionsitservices" target="_blank"><i class="fab fa-facebook-f"></i></a>
+            <a class="d-inline-block text-center text-white rounded-circle" href="https://twitter.com/The Safetech Solutions_ITS" target="_blank"><i class="fab fa-twitter"></i></a>
+            <a class="d-inline-block text-center text-white rounded-circle" href="https://www.instagram.com/The Safetech Solutionsitservices/" target="_blank"><i class="fab fa-instagram"></i></a>
+            <a class="d-inline-block text-center text-white rounded-circle" href="https://in.linkedin.com/company/The Safetech Solutions-it-services" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+            <a class="d-inline-block text-center text-white rounded-circle" href="https://www.youtube.com/channel/UCxVwF0rj9iXVIyhBkbX6xEw" target="_blank"><i class="fab fa-youtube"></i></a>
+          </div>
+        </div>
+        <div class="footer_sub mt-3">
+          <h6 class="text-uppercase font-weight-bold text-white pt-4">get started</h6>
+          <p class="text-white">Subscribe our newsletter to get latest updates on technology, etc.</p>
+          <form name="newsletter_form" id="newsletter_form" method="POST" novalidate="novalidate">
+            <div class="form-group mb-0">
+              <input type="email" name="email" placeholder="Enter Your E-mail ID...">
+              <input type="hidden" name="form_type" value="4">
+            </div>
+            <button type="submit" class="gaq_btn border-0 font-weight-bold text-white px-3 mt-3 mb-4 float-xl-right d-inline-block position_rel newsletter_btn">
+              <span class="btn_text text-uppercase ml-2">subscribe</span>
+            </button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
   </div>
   <div class="footer_bottom pt-4 position_rel">
     <div class="shapes_wrapper f_shape_wrapper">

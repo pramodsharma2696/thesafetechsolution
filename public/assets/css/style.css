@@ -282,6 +282,7 @@ main {
 .abt_box {
   border-radius: 10px;
   cursor: context-menu;
+  height: 400px;
 }
 .abt_box i {
   font-size: 50px;

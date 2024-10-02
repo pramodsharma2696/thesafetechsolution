@@ -63,19 +63,19 @@
                                                                 <a href="{{ url('/ctrader-trading-platform-support') }}"><i class="fas fa-caret-right pr-3"></i>CTrader Trading Platform Support</a>
                                                             </li>
                                                             <li>
-                                                                <a href="{{ url('/mt4-admin-support') }}"><i class="fas fa-caret-right pr-3"></i>Custom Plugin Development</a>
+                                                                <a href="{{ url('/custom-plugin-development') }}"><i class="fas fa-caret-right pr-3"></i>Custom Plugin Development</a>
                                                             </li>
                                                             <li>
-                                                                <a href="{{ url('/mt4-admin-support') }}"><i class="fas fa-caret-right pr-3"></i>PAMM and MAM Support</a>
+                                                                <a href="{{ url('/pamm-mam-support') }}"><i class="fas fa-caret-right pr-3"></i>PAMM and MAM Support</a>
                                                             </li>
                                                             <li>
-                                                                <a href="{{ url('/mt4-admin-support') }}"><i class="fas fa-caret-right pr-3"></i>EA Creation</a>
+                                                                <a href="{{ url('/ea-creation') }}"><i class="fas fa-caret-right pr-3"></i>EA Creation</a>
                                                             </li>
                                                             <li>
                                                                 <a href="{{ url('/dedicated-server-support') }}"><i class="fas fa-caret-right pr-3"></i>Dedicated Server Support</a>
                                                             </li>
                                                             <li>
-                                                                <a href="{{ url('/mt4-admin-support') }}"><i class="fas fa-caret-right pr-3"></i>Website Creation</a>
+                                                                <a href="{{ url('/website-creation') }}"><i class="fas fa-caret-right pr-3"></i>Website Creation</a>
                                                             </li>
                                                         </ul>
 

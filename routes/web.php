@@ -73,6 +73,23 @@ Route::get('/vertex-trading-platform-support', function () {
 Route::get('/ctrader-trading-platform-support', function () {
     return view('ctrader-trading-platform-support');
 });
+Route::get('/custom-plugin-development', function () {
+    return view('custom-plugin-development');
+});
+Route::get('/pamm-mam-support', function () {
+    return view('pamm-mam-support');
+});
+Route::get('/ea-creation', function () {
+    return view('ea-creation');
+});
+Route::get('/website-creation', function () {
+    return view('website-creation');
+});
+
+
+
+
+
 
 
 

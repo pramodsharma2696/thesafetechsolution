@@ -28,9 +28,9 @@
                         <div class="heading_text heading_text_res">
                             <p class="mb-4 font-weight-medium">It,s Time to shape <span class="orange">Your business design</span></p>
                             <h1 class="dark_gray font-weight-bold heading mb-3">
-                                <span class="position_rel">Innovators in modern</span>
+                                <span class="position_rel">Your Trusted Partner for</span>
                                 <br>
-                                <span class="position_rel">web design</span>
+                                <span class="position_rel"> Advanced Forex Solutions</span>
                             </h1>
                         </div>
 

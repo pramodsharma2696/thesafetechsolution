@@ -144,10 +144,11 @@
     <!-- Whatsapp-end -->
     <!-- home_blink_btn -->
     <div>
-        <a href="tel:+918452089309">
-            <div class="home_blink_btn">
-                <i class="fas fa-mobile-alt"></i>
-            </div>
-        </a>
+    <a href="skype:live:.cid.cbf11c3c36117332?chat">
+    <div class="home_blink_btn">
+        <i class="fab fa-skype"></i>
+    </div>
+</a>
+
     </div>
     @include('layouts.footer')

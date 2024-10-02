@@ -17,7 +17,7 @@
               <li><a class="text-white" href="https://crm.strelasoft.com/" target="_blank">CRM</a></li>
               <li><a class="text-white" href="https://pamm.strelasoft.com/" target="_blank">PAMM</a></li>
               <li><a class="text-white" href="https://mamm.strelasoft.com/" target="_blank">MAMM</a></li>
-              <li><a class="text-white" href="https://social.strelasoft.com/" target="_blank">Social Copier</a></li>
+              <li><a class="text-white" href="https://social-copier.strelasoft.com/" target="_blank">Social Copier</a></li>
               <li><a class="text-white" href="https://reconciliation.strelasoft.com/" target="_blank">Reconciliation Plugin</a></li>
               <li><a class="text-white" href="https://swap-free.strelasoft.com/login/" target="_blank">Swap Free Plugin</a></li>
               <li><a class="text-white" href="https://deposit-bonus.strelasoft.com/" target="_blank">Deposit Bonus Plugin</a></li>

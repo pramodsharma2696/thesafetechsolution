@@ -379,7 +379,7 @@
 </section>
 
 <!-- OUR MANAGEMENT -->
-<section class="pt-90 pb-90">
+<!-- <section class="pt-90 pb-90">
 	<div class="container-fluid px-4">
 		<div class="heading_text text-center">
 			<h1 class="dark_gray font-weight-bold heading mb-2 pb-4">
@@ -476,7 +476,7 @@
 
 		</div>
 	</div>
-</section>
+</section> -->
 
 
 @endsection

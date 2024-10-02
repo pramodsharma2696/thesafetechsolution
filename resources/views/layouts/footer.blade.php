@@ -2,7 +2,7 @@
   <div class="container">
     <div class="btn_talk pt-5 text-center">
       <a href="https://api.whatsapp.com/send?phone=447491573459" target="_blink" class="gaq_btn text-white px-4 py-2 font-weight-medium experts_btn font-weight-medium">
-        <i class="flaticon-users pr-2"></i>Talk To Our Expert
+        <i class="flaticon-users pr-2"></i>Chat To Our Expert
         <i class="gaq_dot ml-3"><span></span></i>
       </a>
     </div>

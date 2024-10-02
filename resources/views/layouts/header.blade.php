@@ -72,7 +72,7 @@
                                                                 <a href="{{ url('/mt4-admin-support') }}"><i class="fas fa-caret-right pr-3"></i>EA Creation</a>
                                                             </li>
                                                             <li>
-                                                                <a href="{{ url('/mt4-admin-support') }}"><i class="fas fa-caret-right pr-3"></i>Dedicated Server Support</a>
+                                                                <a href="{{ url('/dedicated-server-support') }}"><i class="fas fa-caret-right pr-3"></i>Dedicated Server Support</a>
                                                             </li>
                                                             <li>
                                                                 <a href="{{ url('/mt4-admin-support') }}"><i class="fas fa-caret-right pr-3"></i>Website Creation</a>
@@ -82,9 +82,9 @@
 
                                                             <li class="col-xs-12 col-lg-6 list-style">
                                                             <ul class="list-unstyled">
-                                                            <li class="dropdown-header px-0 border-bottom text-uppercase mb-3"><a href="web-hosting-company-mumbai.html">Swap Free Plugin<i class="far fa-hand-point-right pl-2"></i></a></li>
+                                                            <li class="dropdown-header px-0 border-bottom text-uppercase mb-3"><a href="web-hosting-company-mumbai.html">MT5 Plugin Services<i class="far fa-hand-point-right pl-2"></i></a></li>
                                                             <li>
-                                                                <a href="#"><i class="fas fa-caret-right pr-3"></i>Free Plugin</a>
+                                                                <a href="#"><i class="fas fa-caret-right pr-3"></i>Swap Free PLugin</a>
                                                             </li>
                                                             <li>
                                                                 <a href="#"><i class="fas fa-caret-right pr-3"></i>Bonus Plugin</a>

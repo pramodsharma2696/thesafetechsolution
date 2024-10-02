@@ -134,7 +134,7 @@
     <script src="{{ asset('')}}assets/js/api0432.js?render=6LcQeu8UAAAAAKDV6FJFaWhxZ8_GFqzG7Y7nETL1"></script>
     <!-- Whatsapp -->
     <div id="testdiv">
-        <a href="https://api.whatsapp.com/send?phone=+44 7491573459" target="_blink">
+        <a href="https://api.whatsapp.com/send?phone=+447491573459" target="_blink">
             <div class="whatsapp_chat1">
                 <i class="fab fa-whatsapp"></i>
             </div>

@@ -53,7 +53,7 @@
             <div class="col-lg-12">
                 <div class="service_mark">
                     <h3 class="light_black">MT4 Admin Support</h3>
-                    <p class="pt-4 text-justify">
+                    <p class="pt-4 text-justify" data-aos="fade-up" data-aos-duration="3000">
                         MetaTrader 4 (MT4) is a popular platform for trading Forex, CFDs, and other financial markets. Admin support for MT4 involves managing technical issues, account configurations, and helping users with trading operations. Here’s an outline of support content tailored for an MT4 administrator:
                     </p>
 

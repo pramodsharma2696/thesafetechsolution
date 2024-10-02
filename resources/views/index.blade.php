@@ -67,7 +67,7 @@
                             Robust solutions to drive your business forward
 
                             <span class="text-white pr-3">Phone:
-                                <a class="text-white pl-2" href="tel:+44 7491573459">+44 7491 573459</a>
+                                <a class="text-white pl-2" href="tel:+447491573459">+44 7491573459</a>
                             </span>
                             <span class="text-white">Email:
                                 <a class="text-white pl-2" href="mailto:support@thesafetechsolutions.com">support@thesafetechsolutions.com</a>
@@ -76,7 +76,7 @@
 
                         </h5>
                         <ul class="list-unstyled home_links mt-3">
-                            <li class="list-inline-item">Phone: <a href="tel:+44 7491573459" class="position_rel" target="_blink">+44 7491573459</a></li>
+                            <li class="list-inline-item">Phone: <a href="tel:+447491573459" class="position_rel" target="_blink">+44 7491573459</a></li>
                             <li class="list-inline-item">Email: <a href="web-development-company-mumbai.html" class="position_rel" target="_blink">support@thesafetechsolutions.com</a></li>
                             <!-- <li class="list-inline-item pt-2 pt-sm-0"><a href="digital-marketing-company-mumbai.html" class="position_rel" target="_blink">Digital Marketing</a></li> -->
                         </ul>
@@ -112,7 +112,7 @@
                 <h1 class="dark_gray font-weight-bold heading mb-4 pb-2">
                     <span class="position_rel">Explore our range of</span>
                     <br>
-                    <span class="position_rel">services.</span>
+                    <span class="position_rel">Support services.</span>
                 </h1>
             </div>
             <div class="row">
@@ -375,14 +375,21 @@
                                 </div>
                                 <div class="col-lg-6 form-group pb-2">
                                     <select class="form-control font-weight-medium px-4" name="category">
-                                        <option value="">Select Service</option>
-                                        <option value='Website Designing'>Website Designing</option>
-                                        <option value='Web Hosting'>Web Hosting</option>
-                                        <option value='Graphic Design'>Graphic Design</option>
-                                        <option value='Web Development'>Web Development</option>
-                                        <option value='Digital Marketing'>Digital Marketing</option>
-                                        <option value='Application Development'>Application Development</option>
-                                        <option value='Other Services'>Other Services</option>
+                                    <option value="MT4 Admin Support">MT4 Admin Support</option>
+                                        <option value="MT4 Manager Support">MT4 Manager Support</option>
+                                        <option value="MT5 Admin Support">MT5 Admin Support</option>
+                                        <option value="MT5 Manager Support">MT5 Manager Support</option>
+                                        <option value="Bridge and Gateway Support">Bridge and Gateway Support</option>
+                                        <option value="CRM Support">CRM Support</option>
+                                        <option value="Plugins Support">Plugins Support</option>
+                                        <option value="Ark Trading Platform Support">Ark Trading Platform Support</option>
+                                        <option value="Vertex Trading Platform Support">Vertex Trading Platform Support</option>
+                                        <option value="CTrader Trading Platform Support">CTrader Trading Platform Support</option>
+                                        <option value="Custom Plugin Development">Custom Plugin Development</option>
+                                        <option value="PAMM and MAM Support">PAMM and MAM Support</option>
+                                        <option value="EA Creation">EA Creation</option>
+                                        <option value="Dedicated Server Support">Dedicated Server Support</option>
+                                        <option value="Website Creation">Website Creation</option>
                                     </select>
                                 </div>
                                 <div class="col-lg-12 text-center pb-5 pb-lg-0">
@@ -415,80 +422,135 @@
     </div>
 
     <div class="testimonial_sec pt-5 mt-3">
-        <div class="position_rel pb-5">
-            <div class="shapes_wrapper">
-                <img src="{{ asset('')}}assets/images/shapes/shape_8.svg" alt="" class="img_shapes shape_8">
-                <img src="{{ asset('')}}assets/images/shapes/shape_O_gray.svg" alt="" class="img_shapes shape_O_gray">
-                <img src="{{ asset('')}}assets/images/shapes/shape_7.svg" alt="" class="img_shapes shape_10">
-                <img src="{{ asset('')}}assets/images/shapes/shape_X.svg" alt="" class="img_shapes shape_X2">
-                <img src="{{ asset('')}}assets/images/shapes/shape_X_blue.svg" alt="" class="img_shapes shape_X_blue">
-                <img src="{{ asset('')}}assets/images/shapes/shape_9.svg" alt="" class="img_shapes shape_9">
-                <img src="{{ asset('')}}assets/images/testimonial/1.jpg" alt="" class="img_shapes rounded-circle profile_img profile_1">
-                <img src="{{ asset('')}}assets/images/testimonial/2.jpg" alt="" class="img_shapes rounded-circle profile_img profile_2">
-                <img src="{{ asset('')}}assets/images/testimonial/3.jpg" alt="" class="img_shapes rounded-circle profile_img profile_3">
-                <img src="{{ asset('')}}assets/images/testimonial/4.jpg" alt="" class="img_shapes rounded-circle profile_img profile_4">
+    <div class="position_rel pb-5">
+        <div class="shapes_wrapper">
+            <img src="{{ asset('')}}assets/images/shapes/shape_8.svg" alt="" class="img_shapes shape_8">
+            <img src="{{ asset('')}}assets/images/shapes/shape_O_gray.svg" alt="" class="img_shapes shape_O_gray">
+            <img src="{{ asset('')}}assets/images/shapes/shape_7.svg" alt="" class="img_shapes shape_10">
+            <img src="{{ asset('')}}assets/images/shapes/shape_X.svg" alt="" class="img_shapes shape_X2">
+            <img src="{{ asset('')}}assets/images/shapes/shape_X_blue.svg" alt="" class="img_shapes shape_X_blue">
+            <img src="{{ asset('')}}assets/images/shapes/shape_9.svg" alt="" class="img_shapes shape_9">
+        </div>
+
+        <div class="container">
+            <div class="heading_text text-center">
+                <h1 class="dark_gray font-weight-bold heading mb-2 pb-2">
+                    <span class="position_rel">What’s Our Client Think</span>
+                    <br>
+                    <span class="position_rel">About Us</span>
+                </h1>
             </div>
-
-            <div class="container">
-                <div class="heading_text text-center">
-                    <!-- <i class="fas fa-quote-left text-white rounded-circle mb-4"></i> -->
-                    <h1 class="dark_gray font-weight-bold heading mb-2 pb-2">
-                        <span class="position_rel">What’s Our Client Think</span>
-                        <br>
-                        <span class="position_rel">About Us</span>
-                    </h1>
+            <div class="row pt-5">
+            <div class="col-lg-6 offset-lg-3">
+    <div class="position_rel text-center">
+        <div id="testimonialCarousel" class="carousel slide" data-ride="carousel">
+            <div class="carousel-inner">
+                <!-- Testimonial 1: Prompt and Efficient Response -->
+                <div class="carousel-item active">
+                    <div class="d-flex justify-content-center align-items-center flex-column">
+                        <img src="{{ asset('assets/images/testimonial/user.png') }}" class="rounded-circle profile_img mb-3" alt="Client Image">
+                        <h5 class="mt-1 dark_gray">Prompt and Efficient Response</h5>
+                        <p>"The support team responded to my query within minutes and provided a clear solution."</p>
+                        <h6 class="mt-1 dark_gray">Client 1</h6>
+                    </div>
                 </div>
-                <div class="row">
-                    <div class="col-lg-6 offset-lg-3">
-                        <div class="position_rel text-center">
-                            <div class="classic_testimonial_slider">
-                                <div class="item">
-                                    <p>The best web designer of Mumbai, The Safetech Solutions has designed my website so gracefully that even we haven't imagined. Their creativity is fresh and awesome. Time-bound result, Logical arrangements of visuals and enthusiastic to modify as our need for better result and what not !! I give 100 out of 100 stars.</p>
-                                    <h6 class="mt-1 dark_gray">Happywinds Company</h6>
-                                </div>
 
-                                <div class="item">
-                                    <p>Awesome experience with The Safetech Solutions IT Services. Great team to work with. Good ideas for developing webportal and websites. Keep it up.</p>
-                                    <h6 class="mt-1 dark_gray">Nilesh Patel</h6>
-                                </div>
+                <!-- Testimonial 2: Knowledgeable and Helpful Staff -->
+                <div class="carousel-item">
+                    <div class="d-flex justify-content-center align-items-center flex-column">
+                        <img src="{{ asset('assets/images/testimonial/user.png') }}" class="rounded-circle profile_img mb-3" alt="Client Image">
+                        <h5 class="mt-1 dark_gray">Knowledgeable and Helpful Staff</h5>
+                        <p>"The support staff were extremely knowledgeable and helpful in resolving my issue. I felt like I was dealing with a true expert who understood my problem."</p>
+                        <h6 class="mt-1 dark_gray">Client 2</h6>
+                    </div>
+                </div>
 
-                                <div class="item">
-                                    <p>We are very much fortunate to find such people with so much creativity, passion and determination. We are not only happy to work with you but we are completely satisfied with your work. Keep up the good work.</p>
-                                    <h6 class="mt-1 dark_gray">Naresh Lakdawala</h6>
-                                </div>
+                <!-- Testimonial 3: Personalized and Friendly Service -->
+                <div class="carousel-item">
+                    <div class="d-flex justify-content-center align-items-center flex-column">
+                        <img src="{{ asset('assets/images/testimonial/user.png') }}" class="rounded-circle profile_img mb-3" alt="Client Image">
+                        <h5 class="mt-1 dark_gray">Personalized and Friendly Service</h5>
+                        <p>"The support team was friendly and personalized their service to my specific needs. I felt valued and appreciated as a customer."</p>
+                        <h6 class="mt-1 dark_gray">Client 3</h6>
+                    </div>
+                </div>
 
-                                <div class="item">
-                                    <p>They are very Creative and understands the customer's need We are happy we got right people The blessings of Allah (be upon you).</p>
-                                    <h6 class="mt-1 dark_gray">Umar Shaikh</h6>
-                                </div>
+                <!-- Testimonial 4: Clear and Concise Explanations -->
+                <div class="carousel-item">
+                    <div class="d-flex justify-content-center align-items-center flex-column">
+                        <img src="{{ asset('assets/images/testimonial/user.png') }}" class="rounded-circle profile_img mb-3" alt="Client Image">
+                        <h5 class="mt-1 dark_gray">Clear and Concise Explanations</h5>
+                        <p>"The support agent explained the solution in a clear and concise way that was easy to understand."</p>
+                        <h6 class="mt-1 dark_gray">Client 4</h6>
+                    </div>
+                </div>
 
-                                <div class="item">
-                                    <p>Excellent work done by The Safetech Solutions IT Services.</p>
-                                    <h6 class="mt-1 dark_gray">Amit Malhotra</h6>
-                                </div>
+                <!-- Testimonial 5: Problem Resolution -->
+                <div class="carousel-item">
+                    <div class="d-flex justify-content-center align-items-center flex-column">
+                        <img src="{{ asset('assets/images/testimonial/user.png') }}" class="rounded-circle profile_img mb-3" alt="Client Image">
+                        <h5 class="mt-1 dark_gray">Problem Resolution</h5>
+                        <p>"The support team was able to resolve my issue quickly and effectively. I am very satisfied with the outcome of my support request."</p>
+                        <h6 class="mt-1 dark_gray">Client 5</h6>
+                    </div>
+                </div>
 
-                                <div class="item">
-                                    <p>Weblook has a professional approach. They delivered on time. Overall satisfactory web design.</p>
-                                    <h6 class="mt-1 dark_gray">Kedar Birid</h6>
-                                </div>
+                <!-- Testimonial 6: Availability -->
+                <div class="carousel-item">
+                    <div class="d-flex justify-content-center align-items-center flex-column">
+                        <img src="{{ asset('assets/images/testimonial/user.png') }}" class="rounded-circle profile_img mb-3" alt="Client Image">
+                        <h5 class="mt-1 dark_gray">Availability</h5>
+                        <p>"The support team was available when I needed them, even outside of regular business hours."</p>
+                        <h6 class="mt-1 dark_gray">Client 6</h6>
+                    </div>
+                </div>
 
-                                <div class="item">
-                                    <p>Best service provider for Websites and Digital Marketing</p>
-                                    <h6 class="mt-1 dark_gray">Hitesh Mistry</h6>
-                                </div>
+                <!-- Testimonial 7: Follow-up -->
+                <div class="carousel-item">
+                    <div class="d-flex justify-content-center align-items-center flex-column">
+                        <img src="{{ asset('assets/images/testimonial/user.png') }}" class="rounded-circle profile_img mb-3" alt="Client Image">
+                        <h5 class="mt-1 dark_gray">Follow-up</h5>
+                        <p>"The support team followed up with me to ensure that my problem was completely resolved."</p>
+                        <h6 class="mt-1 dark_gray">Client 7</h6>
+                    </div>
+                </div>
 
-                                <div class="item">
-                                    <p>very good service and affordable cost</p>
-                                    <h6 class="mt-1 dark_gray">Shivam Shukla</h6>
-                                </div>
-                            </div>
-                        </div>
+                <!-- Testimonial 8: Accessibility -->
+                <div class="carousel-item">
+                    <div class="d-flex justify-content-center align-items-center flex-column">
+                        <img src="{{ asset('assets/images/testimonial/user.png') }}" class="rounded-circle profile_img mb-3" alt="Client Image">
+                        <h5 class="mt-1 dark_gray">Accessibility</h5>
+                        <p>"The support website was easy to navigate and the contact information was readily available."</p>
+                        <h6 class="mt-1 dark_gray">Client 8</h6>
                     </div>
                 </div>
             </div>
-        </div>
-</section>
 
+            <!-- Carousel controls -->
+            <a class="carousel-control-prev" href="#testimonialCarousel" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next" href="#testimonialCarousel" role="button" data-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a>
+        </div>
+    </div>
+</div>
+
+        </div>
+
+        </div>
+    </div>
+</div>
+
+        
+
+
+
+    </section>
+<!-- 
 <section class="pt-90 mt-5 position_rel">
     <div class="shapes_wrapper">
         <img src="{{ asset('')}}assets/images/shapes/shape_plus.webp" alt="" class="img_shapes shape_plus">
@@ -562,7 +624,7 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 <!-- home-page-popup- -->
 
@@ -702,7 +764,21 @@
 </div>
 
 
-
+<style>
+    .carousel-control-prev-icon,
+.carousel-control-next-icon {
+    background-color: rgba(0, 0, 0, 0.5) !important;
+    border-radius: 58% !important;
+    width: 29px !important;
+    height: 29px !important;
+}
+.carousel-control-prev {
+    left: -130px !important;
+}
+.carousel-control-next {
+    right: -130px !important;
+}
+</style>
 <script src="{{ asset('')}}assets/js/home_scroll_btn.js"></script>
 <script>
     grecaptcha.ready(function() {

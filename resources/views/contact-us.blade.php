@@ -137,7 +137,7 @@
 						<div class="contact_info d-table pt-4">
 							<i class="fas fa-mobile-alt color_org d-table-cell"></i>
 							<p class="d-table-cell pl-4">
-								<span class="color_blue">Phone :</span> <a href="tel:+44 7491573459">+44 7491573459</a>								
+								<span class="color_blue">Phone :</span> <a href="tel:+447491573459">+44 7491573459</a>								
 							</p>
 						</div>
 
@@ -150,13 +150,13 @@
 						</div>
 
 						<div class="contact_icons d-table pt-4">
-							<a href="https://twitter.com/Weblooks_ITS" target="_blink">
+							<a href="https://twitter.com/" target="_blink">
 								<i class="fab fa-twitter pl-5"></i>
 							</a>
-							<a href="https://www.facebook.com/thesafetechsolutions" target="_blink">
+							<a href="https://www.facebook.com/" target="_blink">
 								<i class="fab fa-facebook-f pl-4"></i></i>
 							</a>
-							<a href="https://in.linkedin.com/company/weblooks-it-services" target="_blink">
+							<a href="https://in.linkedin.com/" target="_blink">
 								<i class="fab fa-linkedin-in pl-4"></i></i>
 							</a>
 						</div>

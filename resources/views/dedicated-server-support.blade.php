@@ -34,7 +34,7 @@
 	</section>
 </section>
 
-<section class="pt-5 pt_responsive">
+<section class="pt-3 pt_responsive">
 <div class="container-fluid p-0">
         <!-- Full-width Banner Image focusing on footer section -->
         <div class="row">
@@ -50,7 +50,7 @@
         <div class="row">
             <div class="col-lg-12">
                 <h3 class="light_black">Dedicated Server Support</h3>
-                <p class="pt-4 text-justify">
+                <p class="pt-4 text-justify" data-aos="fade-up" data-aos-duration="3000">
                     Experience the ultimate in performance, security, and control with our Dedicated Server Support Services. Designed for businesses that require high availability and customized hosting solutions, our dedicated servers come equipped with 24/7 expert support to ensure optimal performance and reliability. Whether you're running a high-traffic website, resource-intensive applications, or complex databases, our dedicated server support keeps your operations running smoothly.
                 </p>
 

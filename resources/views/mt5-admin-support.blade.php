@@ -52,7 +52,7 @@
             <div class="col-lg-12">
                 <div class="service_mark">
                     <h3 class="light_black">MT5 Admin Support</h3>
-                    <p class="pt-4 text-justify">
+                    <p class="pt-4 text-justify" data-aos="fade-up" data-aos-duration="3000">
                         Welcome to the MT5 Admin Support page, where we provide comprehensive solutions to help brokers and administrators manage their MetaTrader 5 platform effectively. From server management and user account control to risk management and troubleshooting, our support services ensure seamless operations for your trading environment.
                     </p>
 
@@ -148,7 +148,7 @@
                         <p><strong>Contact Us:</strong></p>
                         <ul class="space-text" data-aos="fade-up" data-aos-duration="3000">
                             <li>Email: <a href="mailto:support@thesafetechsolutions.com">support@thesafetechsolutions.com</a></li>
-                            <li>Phone: <a href="tel:+44 7491573459">+44 7491573459</a></li>
+                            <li>Phone: <a href="tel:+447491573459">+44 7491573459</a></li>
                         </ul>
 
                 </div>

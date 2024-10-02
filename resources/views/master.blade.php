@@ -66,7 +66,7 @@
 
     <!--************************ meta tags end / **************************-->
 
-    <link rel="shortcut icon" href="{{ asset('')}}assets/images/favicon.png" type="image/x-icon" />
+    <link rel="shortcut icon" href="{{ asset('')}}assets/images/favicon/favicon.png" type="image/x-icon" />
     <link rel="icon" href="{{ asset('')}}assets/images/favicon.png" type="image/x-icon">
     <link rel="stylesheet" type="text/css" href="{{ asset('')}}assets/css/bootstrap.min.css" async>
     <link rel="stylesheet" type="text/css" href="{{ asset('')}}assets/css/style.css" />

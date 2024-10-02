@@ -177,7 +177,8 @@
 
 <!-- contact-map section -->
 <section class="pt_100">
-	<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d241071.8081428049!2d72.72620518721057!3d19.24985483831428!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b0f0636398ed%3A0xb074029bfab20ae3!2sWeblooks+IT+Services!5e0!3m2!1sen!2sin!4v1518438599501" width="100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d30102.406479694433!2d72.83814812007567!3d19.421010538751627!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sUnit%20Num%207-B%2C%20Crescent%20Industrial%20Estate%2C%20near%20Nepolion%20Garment%20Building%2C%20Chinchpada%2C%20Vasai%20East%2C%20Vasai-Virar%2C%20Maharashtra%20401208!5e0!3m2!1sen!2sin!4v1727895720802!5m2!1sen!2sin" width="100%" height="500" frameborder="0" style="border:0" allowfullscreen></iframe>
+	<!-- <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d241071.8081428049!2d72.72620518721057!3d19.24985483831428!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b0f0636398ed%3A0xb074029bfab20ae3!2sWeblooks+IT+Services!5e0!3m2!1sen!2sin!4v1518438599501" width="100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe> -->
 </section>
 
 

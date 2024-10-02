@@ -1300,3 +1300,7 @@ footer .footer_widget p {
 }
 .grecaptcha-badge { visibility: hidden; }
 
+.megamenu-shop {
+  width: 50% !important;
+  margin-left: 47% !important;
+}

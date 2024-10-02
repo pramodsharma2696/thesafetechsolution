@@ -13,25 +13,21 @@
             <h6 class="text-uppercase  font-weight-bold text-white pb-xl-4">useful links</h6>
             <div class="row">
               <div class="col-xl-6 col-lg-7 col-md-6">
-                <ul class="list-unstyled footer_text">
-                  <li><a class="text-white" href="https://The Safetech Solutions.supersite2.myorderbox.com/">Domain Registration</a></li>
-                  <li><a class="text-white" href="website-hosting-plans-india.html">Hosting Registration</a></li>
-                  <!--<li><a class="text-white" href="serviceform.php" target="_blank">Web Service Reg.</a></li>-->
-                  <!--<li><a class="text-white" href="service-request123.php">Service Req Changes</a></li>-->
-                  <li><a class="text-white" href="static-website-packages.html" target="_blank">Static Website Packages</a></li>
-                  <!--<li><a class="text-white" href="dynamic-Website-Packages.php" target="_blank">Dynamic Website Pkg.</a></li>-->
-                  <li><a class="text-white" href="career.html" target="_blank">Career</a></li>
-                </ul>
+              <ul class="list-unstyled footer_text">
+                        <li><a class="text-white" href="https://crm.strelasoft.com/" target="_blank">CRM</a></li>
+                        <li><a class="text-white" href="https://pamm.strelasoft.com/" target="_blank">PAMM</a></li>
+                        <li><a class="text-white" href="https://mamm.strelasoft.com/" target="_blank">MAMM</a></li>
+                        <li><a class="text-white" href="https://social.strelasoft.com/" target="_blank">Social Copier</a></li>
+                        <li><a class="text-white" href="https://reconciliation.strelasoft.com/" target="_blank">Reconciliation Plugin</a></li>
+                    </ul>
               </div>
               <div class="col-xl-6 col-lg-5 col-md-6">
-                <ul class="list-unstyled footer_text pl-xl-3">
-                  <!--<li><a class="text-white" href="make-payment.php" target="_blank">Make a Payment</a></li>-->
-                  <li><a class="text-white" href="http://tiny.cc/lg2nez" target="_blank">Write A Review</a></li>
-                  <li><a class="text-white" href="terms-%26-conditions.html" target="_blank">Terms & Conditions</a></li>
-                  <li><a class="text-white" href="privacy-policy.html" target="_blank">Privacy Policy</a></li>
-                  <li><a class="text-white" href="affiliate-program.html">Affiliate Program</a></li>
-                  <li><a class="text-white" href="faq.html" target="_blank">FAQ</a></li>
-                </ul>
+              <ul class="list-unstyled footer_text pl-xl-3">
+                        <li><a class="text-white" href="https://swap-free.strelasoft.com/login/" target="_blank">Swap Free Plugin</a></li>
+                        <li><a class="text-white" href="https://deposit-bonus.strelasoft.com/" target="_blank">Deposit Bonus Plugin</a></li>
+                        <li><a class="text-white" href="https://drawdown.strelasoft.com/login/" target="_blank">Drawdown Plugin</a></li>
+                       
+                    </ul>
               </div>
             </div>
           </div>

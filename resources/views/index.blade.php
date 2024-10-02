@@ -429,6 +429,9 @@
                             </div>
                         </div>
                         <div class="row mt-md-5" data-aos="fade-up" data-aos-duration="3000">
+                        <div class="col-lg-2 col-sm-6 col-md-4">
+                                
+                                </div>
                             <div class="col-lg-4 col-sm-6 col-md-4 mt-md-5 mt-lg-0 mx-md-auto">
                                 <div class="abt_box text-center position_rel px-3 py-4 transition_3s">
                                     <!-- <i class="flaticon-customer-review position_rel transition_3s"></i> -->
@@ -466,7 +469,7 @@
                                 </div>
                             </div>
 
-                            <div class="col-lg-4 col-sm-6 col-md-4">
+                            <div class="col-lg-2 col-sm-6 col-md-4">
                                 
                             </div>
                         </div>

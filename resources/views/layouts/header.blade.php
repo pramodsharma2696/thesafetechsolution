@@ -24,7 +24,7 @@
                                             <span class="toggle-submenu"></span>
                                             <div class="submenu megamenu megamenu-shop">
                                                 <div class="row sub-menu">
-                                                    <div class="col-lg-5 col-sm-12">
+                                                    <div class="col-lg-12 col-sm-12">
                                                         <ul class="row list-unstyled">
                                                             <li class="col-xs-12 col-lg-6 list-style">
                                                             <ul class="dropdown-headers list-unstyled">
@@ -144,9 +144,9 @@
                                                             </li>
                                                         </ul>
                                                     </div>
-                                                    <div class="col-lg-7 col-line-hight colm-left-pad">
-                                                        <ul class="row list-unstyled">
-                                                            <li class="col-xs-12 col-lg-4">
+                                                    <!-- <div class="col-lg-7 col-line-hight colm-left-pad"> -->
+                                                        <!-- <ul class="row list-unstyled"> -->
+                                                            <!-- <li class="col-xs-12 col-lg-4">
                                                                 <ul class="list-unstyled">
                                                                     <li class="dropdown-header px-0 border-bottom text-uppercase mb-3"><a href="web-development-company-mumbai.html">Web Development<i class="far fa-hand-point-right pl-2"></i></a></li>
                                                                     <li>
@@ -183,9 +183,9 @@
                                                                         <a href="dotnet-web-development.html"><i class="fas fa-caret-right pr-3"></i>.NET Web Development</a>
                                                                     </li>
                                                                 </ul>
-                                                            </li>
+                                                            </li> -->
 
-                                                            <li class="col-xs-12 col-lg-4 ">
+                                                            <!-- <li class="col-xs-12 col-lg-4 ">
                                                                 <ul class="list-unstyled">
                                                                     <li class="dropdown-header px-0 border-bottom text-uppercase mb-3"><a href="digital-marketing-company-mumbai.html">Digital Marketing<i class="far fa-hand-point-right pl-2"></i></a></li>
                                                                     <li>
@@ -222,9 +222,9 @@
                                                                         <a href="online-reputation-management.html"><i class="fas fa-caret-right pr-3"></i>Online Reputation Mgmt.</a>
                                                                     </li>
                                                                 </ul>
-                                                            </li>
+                                                            </li> -->
 
-                                                            <li class="col-xs-12 col-lg-4">
+                                                            <!-- <li class="col-xs-12 col-lg-4">
                                                                 <ul class="list-unstyled">
                                                                     <li class="dropdown-header px-0 border-bottom text-uppercase mb-3"><a href="application-development-company-mumbai.html">Application Development<i class="far fa-hand-point-right pl-2"></i></a></li>
                                                                     <li>
@@ -254,9 +254,9 @@
                                                                         <a href="animated-videos.html"><i class="fas fa-caret-right pr-3"></i>Animated Videos</a>
                                                                     </li>
                                                                 </ul>
-                                                            </li>
-                                                        </ul>
-                                                    </div>
+                                                            </li> -->
+                                                        <!-- </ul> -->
+                                                    <!-- </div> -->
                                                 </div>
                                             </div>
                                         </li>
@@ -265,9 +265,9 @@
                                             <a href="{{ url('/pricing') }}" class="text-white">Pricing</a>
                                         </li>
 
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-megamenu menu-item-228 parent parent-megamenu item-megamenu">
+                                        <!-- <li class="menu-item menu-item-type-post_type menu-item-object-megamenu menu-item-228 parent parent-megamenu item-megamenu">
                                             <a href="{{ url('/portfolio') }}" class="text-white">Portfolio</a>
-                                        </li>
+                                        </li> -->
 
                                         <li class="menu-item menu-item-type-post_type menu-item-object-megamenu menu-item-228 parent parent-megamenu item-megamenu">
                                             <a href="{{ url('/contact-us') }}" class="text-white">Contact Us</a>

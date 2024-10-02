@@ -246,7 +246,7 @@
 				<div class="about_skill1 scroll_bar pr-lg-3">
 				    <div class="progress-bar progress_bar pt-4" data-percentage="95%">
 				      <p class="progress-title-holder text-left mb-lg-0">
-							<span class="progress-title font-weight-medium">HTML5 / CSS3 / BootStrap</span>
+							<span class="progress-title font-weight-medium">MetaTrader5/MetaTrader4</span>
 							<span class="progress-number-wrapper">
 					      	<span class="progress-number-mark">
 						        <span class="percent font-weight-bold"></span>
@@ -260,7 +260,7 @@
 
 				    <div class="progress-bar progress_bar pt-4" data-percentage="90%">
 					    <p class="progress-title-holder text-left clearfix mb-lg-0">
-							<span class="progress-title font-weight-medium">Javascript / JQuery / JS Frameworks</span>
+							<span class="progress-title font-weight-medium">Ark Trading Platform Support</span>
 							<span class="progress-number-wrapper">
 					      	<span class="progress-number-mark">
 					        	<span class="percent font-weight-bold"></span>
@@ -274,7 +274,7 @@
 
 					<div class="progress-bar progress_bar pt-4" data-percentage="95%">
 						<p class="progress-title-holder text-left clearfix mb-lg-0">
-							<span class="progress-title font-weight-medium">PHP / MySQL</span>
+							<span class="progress-title font-weight-medium">Vertex Trading Platform Support</span>
 							<span class="progress-number-wrapper">
 						     <span class="progress-number-mark">
 							    <span class="percent font-weight-bold"></span>
@@ -292,7 +292,7 @@
 				<div class="about_skill2 scroll_bar pl-lg-3">
 				    <div class="progress-bar progress_bar pt-4" data-percentage="90%">
 				      <p class="progress-title-holder text-left mb-lg-0">
-							<span class="progress-title font-weight-medium">PHP Framework (Laravel, Codeigniter, etc.)</span>
+							<span class="progress-title font-weight-medium">CRM Support</span>
 							<span class="progress-number-wrapper">
 					      	<span class="progress-number-mark">
 						        <span class="percent font-weight-bold"></span>
@@ -306,7 +306,7 @@
 
 				    <div class="progress-bar progress_bar pt-4" data-percentage="85%">
 					    <p class="progress-title-holder text-left clearfix mb-lg-0">
-							<span class="progress-title font-weight-medium">CMS (Wordpress, OpenCart , etc.)</span>
+							<span class="progress-title font-weight-medium">Plugin Support</span>
 							<span class="progress-number-wrapper">
 					      	<span class="progress-number-mark">
 					        	<span class="percent font-weight-bold"></span>
@@ -320,7 +320,7 @@
 
 					<div class="progress-bar progress_bar pt-4" data-percentage="85%">
 						<p class="progress-title-holder text-left clearfix mb-lg-0">
-							<span class="progress-title font-weight-medium">Web Application / Android / IOS</span>
+							<span class="progress-title font-weight-medium">Bridge and Gateway Support</span>
 							<span class="progress-number-wrapper">
 						     <span class="progress-number-mark">
 							    <span class="percent font-weight-bold"></span>
@@ -333,6 +333,47 @@
 					</div>  
 				</div>
 			</div>
+			
+		</div>
+
+		<div class="row">
+			<div class="col-lg-5">
+				<div class="about_skill1 scroll_bar pr-lg-3">
+				    <div class="progress-bar progress_bar pt-4" data-percentage="95%">
+				      <p class="progress-title-holder text-left mb-lg-0">
+							<span class="progress-title font-weight-medium">PAMM and MAM Support</span>
+							<span class="progress-number-wrapper">
+					      	<span class="progress-number-mark">
+						        <span class="percent font-weight-bold"></span>
+							</span>
+							</span>
+						</p>
+				      <div class="progress-content-outter">
+				        <div class="progress-content"></div>
+				      </div>
+				    </div>
+
+				</div>
+			</div>
+
+			<div class="col-lg-5">
+				<div class="about_skill2 scroll_bar pl-lg-3">
+				    <div class="progress-bar progress_bar pt-4" data-percentage="90%">
+				      <p class="progress-title-holder text-left mb-lg-0">
+							<span class="progress-title font-weight-medium">EA Development</span>
+							<span class="progress-number-wrapper">
+					      	<span class="progress-number-mark">
+						        <span class="percent font-weight-bold"></span>
+							</span>
+							</span>
+						</p>
+				      <div class="progress-content-outter">
+				        <div class="progress-content"></div>
+				      </div>
+				    </div> 
+				</div>
+			</div>
+			
 		</div>
 	</div>
 </section>

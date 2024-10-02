@@ -263,86 +263,129 @@
                     </a>
                 </div>
 
-                <div class="whyus">
-                    <div class="heading_text mt-4">
-                        <p class="text-uppercase mb-0 font-weight-medium">Why <span class="orange">The Safetech Solutions IT services</span></p>
-                    </div>
-                    <div class="box_main">
-                        <div class="row mt-4">
-                            <div class="col-lg-3 col-sm-6 col-md-4">
-                                <div class="abt_box text-center position_rel px-3 py-4 transition_3s">
-                                    <i class="flaticon-expert position_rel transition_3s"></i>
-                                    <h4 class="font-weight-bold pt-0 pb-3">Strong Technical Experts</h4>
-                                    <div class="abt_btn w-100">
-                                        <a href="#experts" class="mx-auto px-4 py-2 font-weight-medium rounded text-white" data-toggle="modal" data-target="#experts">Read</a>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="col-lg-3 col-sm-6 col-md-4">
-                                <div class="abt_box text-center position_rel px-3 py-4 transition_3s">
-                                    <i class="flaticon-crm position_rel transition_3s"></i>
-                                    <h4 class="font-weight-bold pt-0 pb-3">Full-stack, full-cutomized</h4>
-                                    <div class="abt_btn w-100">
-                                        <a href="#" class="mx-auto px-4 py-2 font-weight-medium rounded text-white" data-toggle="modal" data-target="#cutomized">Read</a>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="col-lg-3 col-sm-6 col-md-4">
-                                <div class="abt_box text-center position_rel px-3 py-4 transition_3s">
-                                    <i class="flaticon-budget position_rel transition_3s"></i>
-                                    <h4 class="font-weight-bold pt-0 pb-3">Cost effective solutions</h4>
-                                    <div class="abt_btn w-100">
-                                        <a href="#" class="mx-auto px-4 py-2 font-weight-medium rounded text-white" data-toggle="modal" data-target="#cost_effective_solutions">Read</a>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="col-lg-3 col-sm-6 col-md-4 mt-md-5 mt-lg-0 mx-md-auto">
-                                <div class="abt_box text-center position_rel px-3 py-4 transition_3s">
-                                    <i class="flaticon-customer-review position_rel transition_3s"></i>
-                                    <h4 class="font-weight-bold pt-0 pb-3">Customer Centric</h4>
-                                    <div class="abt_btn w-100">
-                                        <a href="#" class="mx-auto px-4 py-2 font-weight-medium rounded text-white" data-toggle="modal" data-target="#cus_centric">Read</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="row mt-md-5">
-                            <div class="col-lg-3 col-sm-6 col-md-4">
-                                <div class="abt_box text-center position_rel px-3 py-4 transition_3s">
-                                    <i class="flaticon-transparency position_rel transition_3s"></i>
-                                    <h4 class="font-weight-bold pt-0 pb-3">Transparency</h4>
-                                    <div class="abt_btn w-100">
-                                        <a href="#" class="mx-auto px-4 py-2 font-weight-medium rounded text-white" data-toggle="modal" data-target="#transparency">Read</a>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="col-lg-3 col-sm-6 col-md-4">
-                                <div class="abt_box text-center position_rel px-3 py-4 transition_3s">
-                                    <i class="flaticon-reliability position_rel transition_3s"></i>
-                                    <h4 class="font-weight-bold pt-0 pb-3">Trust & Support</h4>
-                                    <div class="abt_btn w-100">
-                                        <a href="#" class="mx-auto px-4 py-2 font-weight-medium rounded text-white" data-toggle="modal" data-target="#trust_support">Read</a>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="col-lg-3 col-sm-6 col-md-4">
-                                <div class="abt_box text-center position_rel px-3 py-4 transition_3s">
-                                    <i class="flaticon-creativity position_rel transition_3s"></i>
-                                    <h4 class="font-weight-bold pt-0 pb-3">Creative Ideas</h4>
-                                    <div class="abt_btn w-100">
-                                        <a href="#" class="mx-auto px-4 py-2 font-weight-medium rounded text-white" data-toggle="modal" data-target="#ideas">Read</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+              <div class="whyus">
+    <div class="heading_text mt-4">
+        <p class="text-uppercase mb-0 font-weight-medium">Why <span class="orange">The Safetech Solutions IT services</span></p>
+    </div>
+    <div class="box_main">
+        <div class="row mt-4">
+            <div class="col-lg-3 col-sm-6 col-md-4">
+                <div class="abt_box text-center position_rel px-3 py-4 transition_3s">
+                    <i class="flaticon-expert position_rel transition_3s"></i>
+                    <h4 class="font-weight-bold pt-0 pb-3">Swap Free Plugin</h4>
+                    <div class="abt_btn w-100">
+                        <a href="{{ url('/swap-free-plugin') }}" class="mx-auto px-4 py-2 font-weight-medium rounded text-white" data-toggle="modal" data-target="#swapFreePlugin">Read</a>
                     </div>
                 </div>
+            </div>
+
+            <div class="col-lg-3 col-sm-6 col-md-4">
+                <div class="abt_box text-center position_rel px-3 py-4 transition_3s">
+                    <i class="flaticon-crm position_rel transition_3s"></i>
+                    <h4 class="font-weight-bold pt-0 pb-3">Bonus Plugin</h4>
+                    <div class="abt_btn w-100">
+                        <a href="{{ url('/bonus-plugin') }}" class="mx-auto px-4 py-2 font-weight-medium rounded text-white" data-toggle="modal" data-target="#bonusPlugin">Read</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-sm-6 col-md-4">
+                <div class="abt_box text-center position_rel px-3 py-4 transition_3s">
+                    <i class="flaticon-budget position_rel transition_3s"></i>
+                    <h4 class="font-weight-bold pt-0 pb-3">Drawdown Plugin</h4>
+                    <div class="abt_btn w-100">
+                        <a href="{{ url('/drawdown-plugin') }}" class="mx-auto px-4 py-2 font-weight-medium rounded text-white" data-toggle="modal" data-target="#drawdownPlugin">Read</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-sm-6 col-md-4 mt-md-5 mt-lg-0 mx-md-auto">
+                <div class="abt_box text-center position_rel px-3 py-4 transition_3s">
+                    <i class="flaticon-customer-review position_rel transition_3s"></i>
+                    <h4 class="font-weight-bold pt-0 pb-3">Brokers Copier (For MT5)</h4>
+                    <div class="abt_btn w-100">
+                        <a href="{{ url('/brokers-copier') }}" class="mx-auto px-4 py-2 font-weight-medium rounded text-white" data-toggle="modal" data-target="#brokersCopier">Read</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row mt-md-5">
+            <div class="col-lg-3 col-sm-6 col-md-4">
+                <div class="abt_box text-center position_rel px-3 py-4 transition_3s">
+                    <i class="flaticon-transparency position_rel transition_3s"></i>
+                    <h4 class="font-weight-bold pt-0 pb-3">Social Trading</h4>
+                    <div class="abt_btn w-100">
+                        <a href="{{ url('/social-trading') }}" class="mx-auto px-4 py-2 font-weight-medium rounded text-white" data-toggle="modal" data-target="#socialTrading">Read</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-sm-6 col-md-4">
+                <div class="abt_box text-center position_rel px-3 py-4 transition_3s">
+                    <i class="flaticon-reliability position_rel transition_3s"></i>
+                    <h4 class="font-weight-bold pt-0 pb-3">CRM</h4>
+                    <div class="abt_btn w-100">
+                        <a href="{{ url('/crm') }}" class="mx-auto px-4 py-2 font-weight-medium rounded text-white" data-toggle="modal" data-target="#crm">Read</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-sm-6 col-md-4">
+                <div class="abt_box text-center position_rel px-3 py-4 transition_3s">
+                    <i class="flaticon-creativity position_rel transition_3s"></i>
+                    <h4 class="font-weight-bold pt-0 pb-3">Web Manager</h4>
+                    <div class="abt_btn w-100">
+                        <a href="{{ url('/web-manager') }}" class="mx-auto px-4 py-2 font-weight-medium rounded text-white" data-toggle="modal" data-target="#webManager">Read</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-sm-6 col-md-4">
+                <div class="abt_box text-center position_rel px-3 py-4 transition_3s">
+                    <i class="flaticon-creativity position_rel transition_3s"></i>
+                    <h4 class="font-weight-bold pt-0 pb-3">Reconciliation Plugin</h4>
+                    <div class="abt_btn w-100">
+                        <a href="{{ url('/reconciliation-plugin') }}" class="mx-auto px-4 py-2 font-weight-medium rounded text-white" data-toggle="modal" data-target="#reconciliationPlugin">Read</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row mt-md-5">
+            <div class="col-lg-3 col-sm-6 col-md-4">
+                <div class="abt_box text-center position_rel px-3 py-4 transition_3s">
+                    <i class="flaticon-budget position_rel transition_3s"></i>
+                    <h4 class="font-weight-bold pt-0 pb-3">MT5 API’s</h4>
+                    <div class="abt_btn w-100">
+                        <a href="{{ url('/mt5-api') }}" class="mx-auto px-4 py-2 font-weight-medium rounded text-white" data-toggle="modal" data-target="#mt5Api">Read</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-sm-6 col-md-4">
+                <div class="abt_box text-center position_rel px-3 py-4 transition_3s">
+                    <i class="flaticon-reliability position_rel transition_3s"></i>
+                    <h4 class="font-weight-bold pt-0 pb-3">PAMM</h4>
+                    <div class="abt_btn w-100">
+                        <a href="{{ url('/pamm') }}" class="mx-auto px-4 py-2 font-weight-medium rounded text-white" data-toggle="modal" data-target="#pamm">Read</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-sm-6 col-md-4">
+                <div class="abt_box text-center position_rel px-3 py-4 transition_3s">
+                    <i class="flaticon-creativity position_rel transition_3s"></i>
+                    <h4 class="font-weight-bold pt-0 pb-3">Client Side Copier</h4>
+                    <div class="abt_btn w-100">
+                        <a href="{{ url('/client-side-copier') }}" class="mx-auto px-4 py-2 font-weight-medium rounded text-white" data-toggle="modal" data-target="#clientSideCopier">Read</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
             </div>
 
         </div>

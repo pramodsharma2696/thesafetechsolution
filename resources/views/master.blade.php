@@ -134,12 +134,13 @@
     <script src="{{ asset('')}}assets/js/api0432.js?render=6LcQeu8UAAAAAKDV6FJFaWhxZ8_GFqzG7Y7nETL1"></script>
     <!-- Whatsapp -->
     <div id="testdiv">
-        <a href="https://api.whatsapp.com/send?phone=+447491573459" target="_blink">
-            <div class="whatsapp_chat1">
-                <i class="fab fa-whatsapp"></i>
-            </div>
-        </a>
-    </div>
+    <a href="https://api.whatsapp.com/send?phone=447491573459" target="_blank">
+        <div class="whatsapp_chat1">
+            <i class="fab fa-whatsapp"></i>
+        </div>
+    </a>
+</div>
+
     <!-- Whatsapp-end -->
     <!-- home_blink_btn -->
     <div>

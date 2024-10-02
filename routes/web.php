@@ -73,3 +73,42 @@ Route::get('/vertex-trading-platform-support', function () {
 Route::get('/ctrader-trading-platform-support', function () {
     return view('ctrader-trading-platform-support');
 });
+
+
+
+Route::get('/swap-free-plugin', function () {
+    return view('swap-free-plugin');
+});
+Route::get('/bonus-plugin', function () {
+    return view('bonus-plugin');
+});
+Route::get('/drawdown-plugin', function () {
+    return view('drawdown-plugin');
+});
+Route::get('/brokers-copier', function () {
+    return view('brokers-copier');
+});
+Route::get('/social-trading', function () {
+    return view('social-trading');
+});
+Route::get('/crm', function () {
+    return view('crm');
+});
+Route::get('/web-manager', function () {
+    return view('web-manager');
+});
+Route::get('/reconciliation-plugin', function () {
+    return view('reconciliation-plugin');
+});
+Route::get('/mt5-api', function () {
+    return view('mt5-api');
+});
+Route::get('/pamm', function () {
+    return view('pamm');
+});
+Route::get('/client-side-copier', function () {
+    return view('client-side-copier');
+});
+
+
+

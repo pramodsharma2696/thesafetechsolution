@@ -470,6 +470,131 @@ main {
   color: #c3ab03 !important;
   border-color: #c3ab03;
 }
+/***** Box 8 *****/
+.box_main .row:nth-child(2) div[class*="col-"]:nth-child(4) .abt_box .abt_btn a {
+  background: #ff4c4c;
+  border: 1px solid transparent;
+}
+.box_main .row:nth-child(2) div[class*="col-"]:nth-child(4) .abt_box i, .box_main .row:nth-child(2) div[class*="col-"]:nth-child(4) .abt_box h4 {
+  color: #ff4c4c;
+}
+.box_main .row:nth-child(2) div[class*="col-"]:nth-child(4) .abt_box {
+  background: #ffe5e5;
+  border: 1px solid #ffe5e5;
+}
+.box_main .row:nth-child(2) div[class*="col-"]:nth-child(4) .abt_box:hover {
+  background: #fff;
+  border-color: #ff4c4c;
+}
+.box_main .row:nth-child(2) div[class*="col-"]:nth-child(4) .abt_box:hover i {
+  top: -5px;
+}
+.box_main .row:nth-child(2) div[class*="col-"]:nth-child(4) .abt_box .abt_btn a:hover {
+  background: #ffe5e5;
+  color: #ff4c4c !important;
+  border-color: #ff4c4c;
+}
+
+/***** Box 9 *****/
+.box_main .row:nth-child(3) div[class*="col-"]:nth-child(1) .abt_box .abt_btn a {
+  background: #007bff;
+  border: 1px solid transparent;
+}
+.box_main .row:nth-child(3) div[class*="col-"]:nth-child(1) .abt_box i, .box_main .row:nth-child(3) div[class*="col-"]:nth-child(1) .abt_box h4 {
+  color: #007bff;
+}
+.box_main .row:nth-child(3) div[class*="col-"]:nth-child(1) .abt_box {
+  background: #cce5ff;
+  border: 1px solid #cce5ff;
+}
+.box_main .row:nth-child(3) div[class*="col-"]:nth-child(1) .abt_box:hover {
+  background: #fff;
+  border-color: #007bff;
+}
+.box_main .row:nth-child(3) div[class*="col-"]:nth-child(1) .abt_box:hover i {
+  top: -5px;
+}
+.box_main .row:nth-child(3) div[class*="col-"]:nth-child(1) .abt_box .abt_btn a:hover {
+  background: #cce5ff;
+  color: #007bff !important;
+  border-color: #007bff;
+}
+
+/***** Box 10 *****/
+.box_main .row:nth-child(3) div[class*="col-"]:nth-child(2) .abt_box .abt_btn a {
+  background: #6610f2;
+  border: 1px solid transparent;
+}
+.box_main .row:nth-child(3) div[class*="col-"]:nth-child(2) .abt_box i, .box_main .row:nth-child(3) div[class*="col-"]:nth-child(2) .abt_box h4 {
+  color: #6610f2;
+}
+.box_main .row:nth-child(3) div[class*="col-"]:nth-child(2) .abt_box {
+  background: #e7d4ff;
+  border: 1px solid #e7d4ff;
+}
+.box_main .row:nth-child(3) div[class*="col-"]:nth-child(2) .abt_box:hover {
+  background: #fff;
+  border-color: #6610f2;
+}
+.box_main .row:nth-child(3) div[class*="col-"]:nth-child(2) .abt_box:hover i {
+  top: -5px;
+}
+.box_main .row:nth-child(3) div[class*="col-"]:nth-child(2) .abt_box .abt_btn a:hover {
+  background: #e7d4ff;
+  color: #6610f2 !important;
+  border-color: #6610f2;
+}
+
+/***** Box 11 *****/
+.box_main .row:nth-child(3) div[class*="col-"]:nth-child(3) .abt_box .abt_btn a {
+  background: #fd7e14;
+  border: 1px solid transparent;
+}
+.box_main .row:nth-child(3) div[class*="col-"]:nth-child(3) .abt_box i, .box_main .row:nth-child(3) div[class*="col-"]:nth-child(3) .abt_box h4 {
+  color: #fd7e14;
+}
+.box_main .row:nth-child(3) div[class*="col-"]:nth-child(3) .abt_box {
+  background: #ffe6cc;
+  border: 1px solid #ffe6cc;
+}
+.box_main .row:nth-child(3) div[class*="col-"]:nth-child(3) .abt_box:hover {
+  background: #fff;
+  border-color: #fd7e14;
+}
+.box_main .row:nth-child(3) div[class*="col-"]:nth-child(3) .abt_box:hover i {
+  top: -5px;
+}
+.box_main .row:nth-child(3) div[class*="col-"]:nth-child(3) .abt_box .abt_btn a:hover {
+  background: #ffe6cc;
+  color: #fd7e14 !important;
+  border-color: #fd7e14;
+}
+
+/***** Box 12 *****/
+.box_main .row:nth-child(3) div[class*="col-"]:nth-child(4) .abt_box .abt_btn a {
+  background: #20c997;
+  border: 1px solid transparent;
+}
+.box_main .row:nth-child(3) div[class*="col-"]:nth-child(4) .abt_box i, .box_main .row:nth-child(3) div[class*="col-"]:nth-child(4) .abt_box h4 {
+  color: #20c997;
+}
+.box_main .row:nth-child(3) div[class*="col-"]:nth-child(4) .abt_box {
+  background: #d6f9e9;
+  border: 1px solid #d6f9e9;
+}
+.box_main .row:nth-child(3) div[class*="col-"]:nth-child(4) .abt_box:hover {
+  background: #fff;
+  border-color: #20c997;
+}
+.box_main .row:nth-child(3) div[class*="col-"]:nth-child(4) .abt_box:hover i {
+  top: -5px;
+}
+.box_main .row:nth-child(3) div[class*="col-"]:nth-child(4) .abt_box .abt_btn a:hover {
+  background: #d6f9e9;
+  color: #20c997 !important;
+  border-color: #20c997;
+}
+
 .req_form button {
   background: none;
 }

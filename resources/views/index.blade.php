@@ -195,7 +195,7 @@
                         <h4 class="dark_gray font-weight-medium mb-4 mt-4">Ark Trading Platform Support</h4>
                         <p class="text-justify">At Safetech Solutions IT Services, we provide comprehensive graphic design services to enhance your company's brand presence. Embracing the philosophy that...</p>
 
-                        <a href="{{ url('/ark-and-gateway-support') }}" target="_blink" class="btn_icon font-weight-medium mt-5">
+                        <a href="{{ url('/ark-trading-platform-support') }}" target="_blink" class="btn_icon font-weight-medium mt-5">
                             <i class="flaticon-right-arrow"></i>
                         </a>
                     </div>
@@ -206,7 +206,7 @@
                         <h4 class="dark_gray font-weight-medium mb-4 mt-4">Vertex Trading Platform Support</h4>
                         <p class="text-justify">As a leading software development company, we offer cost-effective solutions to enhance your business. Transform the digital landscape with innovative applications tailored to your needs...</p>
 
-                        <a href="{{ url('/vertex-and-gateway-support') }}" target="_blink" class="btn_icon font-weight-medium mt-5">
+                        <a href="{{ url('/vertex-trading-platform-support') }}" target="_blink" class="btn_icon font-weight-medium mt-5">
                             <i class="flaticon-right-arrow"></i>
                         </a>
                     </div>

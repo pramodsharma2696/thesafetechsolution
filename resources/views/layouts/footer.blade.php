@@ -95,7 +95,7 @@
 
             <div class="col-xl-3 col-lg-4 col-md-6">
               <div class="web_services footer_widget">
-                <h6 class="text-uppercase  font-weight-bold text-white pb-4">Connect with us </h6>
+                <h6 class="text-uppercase  font-weight-bold text-white pb-4">MT5 Plugin</h6>
                 <ul class="list-unstyled footer_text">
                 <li>
                     <a class="text-white" href="{{ url('/swap-free-plugin') }}" target="_blank">Swap Free Plugin</a>

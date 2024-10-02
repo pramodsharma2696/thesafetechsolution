@@ -9,6 +9,7 @@
 }
 :root {
 	--gray: #8a919c;
+	--bg: #d1e8fe;
   --dark-gray: #2a2a2a;
   --blue: #436ebe;
   --dark-blue: #436ebe;
@@ -281,7 +282,6 @@ main {
 .abt_box {
   border-radius: 10px;
   cursor: context-menu;
-  height: 460px;
 }
 .abt_box i {
   font-size: 50px;
@@ -595,6 +595,87 @@ main {
   color: #20c997 !important;
   border-color: #20c997;
 }
+
+
+/***** Box 10 *****/
+.box_main .row:nth-child(4) div[class*="col-"]:nth-child(1) .abt_box .abt_btn a {
+  background: #6610f2;
+  border: 1px solid transparent;
+}
+.box_main .row:nth-child(4) div[class*="col-"]:nth-child(1) .abt_box i, 
+.box_main .row:nth-child(4) div[class*="col-"]:nth-child(1) .abt_box h4 {
+  color: #6610f2;
+}
+.box_main .row:nth-child(4) div[class*="col-"]:nth-child(1) .abt_box {
+  background: #e9d5ff;
+  border: 1px solid #e9d5ff;
+}
+.box_main .row:nth-child(4) div[class*="col-"]:nth-child(1) .abt_box:hover {
+  background: #fff;
+  border-color: #6610f2;
+}
+.box_main .row:nth-child(4) div[class*="col-"]:nth-child(1) .abt_box:hover i {
+  top: -5px;
+}
+.box_main .row:nth-child(4) div[class*="col-"]:nth-child(1) .abt_box .abt_btn a:hover {
+  background: #e9d5ff;
+  color: #6610f2 !important;
+  border-color: #6610f2;
+}
+
+/***** Box 11 *****/
+.box_main .row:nth-child(4) div[class*="col-"]:nth-child(2) .abt_box .abt_btn a {
+  background: #6f42c1;
+  border: 1px solid transparent;
+}
+.box_main .row:nth-child(4) div[class*="col-"]:nth-child(2) .abt_box i, 
+.box_main .row:nth-child(4) div[class*="col-"]:nth-child(2) .abt_box h4 {
+  color: #6f42c1;
+}
+.box_main .row:nth-child(4) div[class*="col-"]:nth-child(2) .abt_box {
+  background: #e3d8f9;
+  border: 1px solid #e3d8f9;
+}
+.box_main .row:nth-child(4) div[class*="col-"]:nth-child(2) .abt_box:hover {
+  background: #fff;
+  border-color: #6f42c1;
+}
+.box_main .row:nth-child(4) div[class*="col-"]:nth-child(2) .abt_box:hover i {
+  top: -5px;
+}
+.box_main .row:nth-child(4) div[class*="col-"]:nth-child(2) .abt_box .abt_btn a:hover {
+  background: #e3d8f9;
+  color: #6f42c1 !important;
+  border-color: #6f42c1;
+}
+
+/***** Box 12 *****/
+.box_main .row:nth-child(4) div[class*="col-"]:nth-child(3) .abt_box .abt_btn a {
+  background: #fd7e14;
+  border: 1px solid transparent;
+}
+.box_main .row:nth-child(4) div[class*="col-"]:nth-child(3) .abt_box i, 
+.box_main .row:nth-child(4) div[class*="col-"]:nth-child(3) .abt_box h4 {
+  color: #fd7e14;
+}
+.box_main .row:nth-child(4) div[class*="col-"]:nth-child(3) .abt_box {
+  background: #ffe7d1;
+  border: 1px solid #ffe7d1;
+}
+.box_main .row:nth-child(4) div[class*="col-"]:nth-child(3) .abt_box:hover {
+  background: #fff;
+  border-color: #fd7e14;
+}
+.box_main .row:nth-child(4) div[class*="col-"]:nth-child(3) .abt_box:hover i {
+  top: -5px;
+}
+.box_main .row:nth-child(4) div[class*="col-"]:nth-child(3) .abt_box .abt_btn a:hover {
+  background: #ffe7d1;
+  color: #fd7e14 !important;
+  border-color: #fd7e14;
+}
+
+
 
 .req_form button {
   background: none;

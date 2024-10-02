@@ -97,39 +97,40 @@
               <div class="web_services footer_widget">
                 <h6 class="text-uppercase  font-weight-bold text-white pb-4">Connect with us </h6>
                 <ul class="list-unstyled footer_text">
-                  <li>
-                    <a class="text-white" href="#" target="_blank">Swap Free Plugin</a>
-                  </li>
-                  <li>
-                    <a class="text-white" href="#" target="_blank">Bonus Plugin</a>
-                  </li>
-                  <li>
-                    <a class="text-white" href="#" target="_blank">Drawdown Plugin</a>
-                  </li>
-                  <li>
-                    <a class="text-white" href="#" target="_blank">Brokers Copier (For MT5)</a>
-                  </li>
-                  <li>
-                    <a class="text-white" href="#" target="_blank">Social Trading</a>
-                  </li>
-                  <li>
-                    <a class="text-white" href="#" target="_blank">CRM</a>
-                  </li>
-                  <li>
-                    <a class="text-white" href="#" target="_blank">Web Manager</a>
-                  </li>
-                  <li>
-                    <a class="text-white" href="#" target="_blank">Reconciliation Plugin</a>
-                  </li>
-                  <li>
-                    <a class="text-white" href="#" target="_blank">MT5 API’s</a>
-                  </li>
-                  <li>
-                    <a class="text-white" href="#" target="_blank">PAMM</a>
-                  </li>
-                  <li>
-                    <a class="text-white" href="#" target="_blank">Client Side Copier</a>
-                  </li>
+                <li>
+                    <a class="text-white" href="{{ url('/swap-free-plugin') }}" target="_blank">Swap Free Plugin</a>
+                </li>
+                <li>
+                    <a class="text-white" href="{{ url('/bonus-plugin') }}" target="_blank">Bonus Plugin</a>
+                </li>
+                <li>
+                    <a class="text-white" href="{{ url('/drawdown-plugin') }}" target="_blank">Drawdown Plugin</a>
+                </li>
+                <li>
+                    <a class="text-white" href="{{ url('/brokers-copier') }}" target="_blank">Brokers Copier (For MT5)</a>
+                </li>
+                <li>
+                    <a class="text-white" href="{{ url('/social-trading') }}" target="_blank">Social Trading</a>
+                </li>
+                <li>
+                    <a class="text-white" href="{{ url('/crm') }}" target="_blank">CRM</a>
+                </li>
+                <li>
+                    <a class="text-white" href="{{ url('/web-manager') }}" target="_blank">Web Manager</a>
+                </li>
+                <li>
+                    <a class="text-white" href="{{ url('/reconciliation-plugin') }}" target="_blank">Reconciliation Plugin</a>
+                </li>
+                <li>
+                    <a class="text-white" href="{{ url('/mt5-api') }}" target="_blank">MT5 API’s</a>
+                </li>
+                <li>
+                    <a class="text-white" href="{{ url('/pamm') }}" target="_blank">PAMM</a>
+                </li>
+                <li>
+                    <a class="text-white" href="{{ url('/client-side-copier') }}" target="_blank">Client Side Copier</a>
+                </li>
+
 
                 </ul>
               </div>

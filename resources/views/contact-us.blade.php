@@ -84,13 +84,21 @@
 										<div class="contact_data">
 											<h6 class="text-capitalize light_black pb-2">catogery</h6>
 											<select class="p-2" name="catogery">
-												<option value="Website Development">Website Development</option>
-												<option value="E-commerce Website">E-commerce Website</option>
-												<option value="Web Application Development">Web Application Development</option>
-												<option value="Digital Marketing (SEO, SMO...)">Digital Marketing (SEO, SMO...)</option>
-												<option value="Android App Development">Android App Development</option>
-												<option value="Domain & Hosting Services">Domain & Hosting Services</option>
-												<option value="Customized Software Development">Customized Software Development</option>
+											<option value="MT4 Admin Support">MT4 Admin Support</option>
+													<option value="MT4 Manager Support">MT4 Manager Support</option>
+													<option value="MT5 Admin Support">MT5 Admin Support</option>
+													<option value="MT5 Manager Support">MT5 Manager Support</option>
+													<option value="Bridge and Gateway Support">Bridge and Gateway Support</option>
+													<option value="CRM Support">CRM Support</option>
+													<option value="Plugins Support">Plugins Support</option>
+													<option value="Ark Trading Platform Support">Ark Trading Platform Support</option>
+													<option value="Vertex Trading Platform Support">Vertex Trading Platform Support</option>
+													<option value="CTrader Trading Platform Support">CTrader Trading Platform Support</option>
+													<option value="Custom Plugin Development">Custom Plugin Development</option>
+													<option value="PAMM and MAM Support">PAMM and MAM Support</option>
+													<option value="EA Creation">EA Creation</option>
+													<option value="Dedicated Server Support">Dedicated Server Support</option>
+													<option value="Website Creation">Website Creation</option>
 											</select>
 										</div>
 									</div>
@@ -145,7 +153,7 @@
 							<i class="fas fa-envelope color_org d-table-cell"></i>
 							<p class="d-table-cell pl-3">
 								<span class="color_blue">Email :</span> 
-								<a href="mailto:info@weblooks.in">Support@thesafetechsolutions.com </a>
+								<a href="mailto:Support@thesafetechsolutions.com">Support@thesafetechsolutions.com </a>
 							</p>
 						</div>
 

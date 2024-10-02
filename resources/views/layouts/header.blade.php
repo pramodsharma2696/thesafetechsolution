@@ -84,37 +84,59 @@
                                                             <ul class="list-unstyled">
                                                             <li class="dropdown-header px-0 border-bottom text-uppercase mb-3"><a href="web-hosting-company-mumbai.html">MT5 Plugin Services<i class="far fa-hand-point-right pl-2"></i></a></li>
                                                             <li>
-                                                                <a href="#"><i class="fas fa-caret-right pr-3"></i>Swap Free PLugin</a>
+                                                                <a href="{{ url('/swap-free-plugin') }}">
+                                                                    <i class="fas fa-caret-right pr-3"></i>Swap Free Plugin
+                                                                </a>
                                                             </li>
                                                             <li>
-                                                                <a href="#"><i class="fas fa-caret-right pr-3"></i>Bonus Plugin</a>
+                                                                <a href="{{ url('/bonus-plugin') }}">
+                                                                    <i class="fas fa-caret-right pr-3"></i>Bonus Plugin
+                                                                </a>
                                                             </li>
                                                             <li>
-                                                                <a href="#"><i class="fas fa-caret-right pr-3"></i>Drawdown Plugin</a>
+                                                                <a href="{{ url('/drawdown-plugin') }}">
+                                                                    <i class="fas fa-caret-right pr-3"></i>Drawdown Plugin
+                                                                </a>
                                                             </li>
                                                             <li>
-                                                                <a href="#"><i class="fas fa-caret-right pr-3"></i>Brokers Copier (For MT5)</a>
+                                                                <a href="{{ url('/brokers-copier') }}">
+                                                                    <i class="fas fa-caret-right pr-3"></i>Brokers Copier (For MT5)
+                                                                </a>
                                                             </li>
                                                             <li>
-                                                                <a href="#"><i class="fas fa-caret-right pr-3"></i>Social Trading</a>
+                                                                <a href="{{ url('/social-trading') }}">
+                                                                    <i class="fas fa-caret-right pr-3"></i>Social Trading
+                                                                </a>
                                                             </li>
                                                             <li>
-                                                                <a href="#"><i class="fas fa-caret-right pr-3"></i>CRM</a>
+                                                                <a href="{{ url('/crm') }}">
+                                                                    <i class="fas fa-caret-right pr-3"></i>CRM
+                                                                </a>
                                                             </li>
                                                             <li>
-                                                                <a href="#"><i class="fas fa-caret-right pr-3"></i>Web Manager</a>
+                                                                <a href="{{ url('/web-manager') }}">
+                                                                    <i class="fas fa-caret-right pr-3"></i>Web Manager
+                                                                </a>
                                                             </li>
                                                             <li>
-                                                                <a href="#"><i class="fas fa-caret-right pr-3"></i>Reconciliation Plugin</a>
+                                                                <a href="{{ url('/reconciliation-plugin') }}">
+                                                                    <i class="fas fa-caret-right pr-3"></i>Reconciliation Plugin
+                                                                </a>
                                                             </li>
                                                             <li>
-                                                                <a href="#"><i class="fas fa-caret-right pr-3"></i>MT5 API’s</a>
+                                                                <a href="{{ url('/mt5-api') }}">
+                                                                    <i class="fas fa-caret-right pr-3"></i>MT5 API’s
+                                                                </a>
                                                             </li>
                                                             <li>
-                                                                <a href="#"><i class="fas fa-caret-right pr-3"></i>PAMM</a>
+                                                                <a href="{{ url('/pamm') }}">
+                                                                    <i class="fas fa-caret-right pr-3"></i>PAMM
+                                                                </a>
                                                             </li>
                                                             <li>
-                                                                <a href="#"><i class="fas fa-caret-right pr-3"></i>Client Side Copier</a>
+                                                                <a href="{{ url('/client-side-copier') }}">
+                                                                    <i class="fas fa-caret-right pr-3"></i>Client Side Copier
+                                                                </a>
                                                             </li>
 
                                                         </ul>

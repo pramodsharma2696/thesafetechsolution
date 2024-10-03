@@ -157,7 +157,7 @@
               <input class="my-2 py-2 pl-3" type="email" name="email" id="email" placeholder="Email">
             </div>
             <div class="form-group mb-0">
-              <select class="my-2 py-2 pl-3" name="service" id="service">
+              <select class="my-2 py-2 pl-3" name="category" id="category">
                 <option value="MT4 Admin Support">MT4 Admin Support</option>
                 <option value="MT4 Manager Support">MT4 Manager Support</option>
                 <option value="MT5 Admin Support">MT5 Admin Support</option>
@@ -440,7 +440,7 @@
 
 <!-- Free Expert Consultation start -->
 <script>
-  $("form[name='free_exp_consultation_form1']").validate({
+  $("form[name='free_exp_consultation_form']").validate({
     rules: {
       name: {
         required: true
@@ -473,6 +473,11 @@
     submitHandler: function(form) {
       URL = $("form[name='free_exp_consultation_form']").attr('action');
       formData = $("form[name='free_exp_consultation_form']").serialize();
+      $.ajaxSetup({
+          headers: {
+              'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
+          }
+      });
       $.ajax({
         type: "POST",
         url: URL,
@@ -481,7 +486,7 @@
           $("button.free_exp_con_btn").replaceWith("<button type='submit' class='free_exp_con_btn' disabled>Submit..</button>");
         },
         success: function(result) {
-          if (result.status == 'success') {
+          if (result.success == true) {
             $("#free_exp_consultation_form")[0].reset();
             $("#myModal").modal("hide");
             toastr.success('E-mail has been send. <br>You will soon get a response on your query');
@@ -489,6 +494,9 @@
         },
         complete: function() {
           $("button.free_exp_con_btn").replaceWith("<button type='submit' class='free_exp_con_btn'>Submit</button>");
+        },
+        error: function(xhr, status, error) {
+            toastr.error('An error occurred: ' + error);
         }
       });
     }
@@ -531,12 +539,17 @@
     submitHandler: function(form) {
       URL = $("form[name='get_free_quot_form']").attr('action');
       formData = $("form[name='get_free_quot_form']").serialize();
+      $.ajaxSetup({
+          headers: {
+              'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
+          }
+      });
       $.ajax({
         type: "POST",
         url: URL,
         data: formData,
         beforeSend: function() {
-          //$("button.free_exp_con_btn").replaceWith("<button type='submit' class='free_exp_con_btn' disabled>Submit..</button>");
+          $("button.free_exp_con_btn").replaceWith("<button type='submit' class='free_exp_con_btn' disabled>Submit..</button>");
         },
         success: function(result) {
           if (result.status == 'success') {
@@ -545,7 +558,10 @@
           }
         },
         complete: function() {
-          //$("button.free_exp_con_btn").replaceWith("<button type='submit' class='free_exp_con_btn'>Submit</button>");
+          $("button.free_exp_con_btn").replaceWith("<button type='submit' class='free_exp_con_btn'>Submit</button>");
+        },
+        error: function(xhr, status, error) {
+            toastr.error('An error occurred: ' + error);
         }
       });
     }
@@ -577,7 +593,11 @@
     submitHandler: function(form) {
       URL = $("form[name='newsletter_form']").attr('action');
       formData = $("form[name='newsletter_form']").serialize();
-
+      $.ajaxSetup({
+          headers: {
+              'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
+          }
+      });
       $.ajax({
         type: "POST",
         url: URL,

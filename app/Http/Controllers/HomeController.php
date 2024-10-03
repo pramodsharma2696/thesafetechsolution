@@ -14,7 +14,7 @@ class HomeController extends Controller
         $request->validate([
             'name' => 'required|string|max:255',
             'email' => 'required|email',
-            'service' => 'required|string',
+            'category' => 'required|string',
         ]);
 
         // Prepare the email data
@@ -22,7 +22,7 @@ class HomeController extends Controller
             'name' => $request->name,
             'email' => $request->email,
             'phone' => $request->mobile_number,
-            'service' => $request->service,
+            'service' => $request->category,
         ];
         try {
             // Send the email

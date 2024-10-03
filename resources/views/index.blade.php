@@ -494,7 +494,8 @@
             <div class="row req_content pt-90">
                 <div class="col-lg-6 col-md-5 col-sm-8 mx-sm-auto order-2 order-md-1">
                     <div class="req_form mt-5 pt-5">
-                        <form action="{{ asset('')}}store-get-a-quote.php" name="get_free_quot_form" id="get_free_quot_form" method="POST" novalidate="novalidate">
+                        <form action="{{ route('send')}}" name="get_free_quot_form" id="get_free_quot_form" method="POST" novalidate="novalidate">
+                            @csrf
                             <div class="row pt-lg-3">
                                 <div class="col-lg-6 form-group">
                                     <input type="text" name="name" class="form-control font-weight-medium px-4" placeholder="Your Name">
@@ -841,7 +842,8 @@
                             <h6 class="light_black mb-3">consultation</h6>
 
                             <div class="popup_right_form form-group">
-                                <form action="{{ asset('')}}store-free-exp-con.php" name="free_exp_consultation_form" id="free_exp_consultation_form" method="POST" novalidate="novalidate">
+                                <form action="{{ route('send')}}" name="free_exp_consultation_form" id="free_exp_consultation_form" method="POST" novalidate="novalidate">
+                                    @csrf
                                     <div class="row">
                                         <div class="col-lg-12 col-md-6">
                                             <div class="form-group">
@@ -887,7 +889,7 @@
                                         </div>
                                     </div>
                                 </form>
-                                <a href="terms-%26-conditions.html" target="_blink" class="text-center font-weight-normal">T & C Apply</a>
+                                <a href="#" target="_blink" class="text-center font-weight-normal">T & C Apply</a>
                             </div>
                         </div>
                     </div>

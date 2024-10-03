@@ -272,6 +272,9 @@
                                         <li class="menu-item menu-item-type-post_type menu-item-object-megamenu menu-item-228 parent parent-megamenu item-megamenu">
                                             <a href="{{ url('/contact-us') }}" class="text-white">Contact Us</a>
                                         </li>
+                                        <li class="menu-item menu-item-type-post_type menu-item-object-megamenu menu-item-228 parent parent-megamenu item-megamenu">
+                                            <a href="{{ url('/faq') }}" class="text-white">FAQ</a>
+                                        </li>
 
                                         <li class="menu-item menu-item-type-post_type menu-item-object-megamenu menu-item-228 parent parent-megamenu item-megamenu ml-lg-3">
                                             <a href="#" class="popup_main_btn gaq_btn text-white px-3 py-1 font-weight-medium">Get a quote

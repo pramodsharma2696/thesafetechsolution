@@ -143,7 +143,8 @@
             </div>
           </div>
           <p class="pt-3 pb-2 font-weight-bold px-3 mb-0 text-center">Get In Touch With Us!</p>
-          <form class="form-group mx-3" action="{{ asset('')}}store-get-a-quote.php" name="get_a_quote_form" id="get_a_quote_form" method="POST" novalidate="novalidate">
+          <form class="form-group mx-3" action="{{ route('send')}}" name="get_a_quote_form" id="get_a_quote_form" method="POST" novalidate="novalidate">
+            @csrf
             <div class="form-group mb-0">
               <input class="my-2 py-2 pl-3" type="text" name="name" id="name" placeholder="Name">
               <input type="hidden" name="form_type" id="form_type" value="1">
@@ -156,7 +157,7 @@
               <input class="my-2 py-2 pl-3" type="email" name="email" id="email" placeholder="Email">
             </div>
             <div class="form-group mb-0">
-              <select class="my-2 py-2 pl-3" name="category" id="category">
+              <select class="my-2 py-2 pl-3" name="service" id="service">
                 <option value="MT4 Admin Support">MT4 Admin Support</option>
                 <option value="MT4 Manager Support">MT4 Manager Support</option>
                 <option value="MT5 Admin Support">MT5 Admin Support</option>

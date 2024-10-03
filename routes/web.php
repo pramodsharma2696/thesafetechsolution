@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\HomeController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -36,6 +37,10 @@ Route::get('/pricing', function () {
 Route::get('/portfolio', function () {
     return view('portfolio');
 });
+Route::get('/faq', function () {
+    return view('faq');
+});
+
 Route::get('/website-designing', function () {
     return view('website-designing');
 });
@@ -93,6 +98,7 @@ Route::get('/website-creation', function () {
 
 
 
+
 Route::get('/swap-free-plugin', function () {
     return view('swap-free-plugin');
 });
@@ -129,3 +135,5 @@ Route::get('/client-side-copier', function () {
 
 
 
+
+Route::post('/send', [HomeController::class, 'sendContactMail'])->name('send');

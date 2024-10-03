@@ -407,6 +407,11 @@
     submitHandler: function(form) {
       URL = $("form[name='get_a_quote_form']").attr('action');
       formData = $("form[name='get_a_quote_form']").serialize();
+        $.ajaxSetup({
+          headers: {
+              'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
+          }
+      });
       $.ajax({
         type: "POST",
         url: URL,
@@ -423,6 +428,9 @@
         },
         complete: function() {
           $("button.get_a_quote_btn").replaceWith("<button type='submit' class='btn btn-sm py-2 px-3 get_a_quote_btn'>Submit Request</button>");
+        },
+        error: function(xhr, status, error) {
+            toastr.error('An error occurred: ' + error);
         }
       });
     }

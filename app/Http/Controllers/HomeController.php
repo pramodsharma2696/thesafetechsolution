@@ -24,10 +24,14 @@ class HomeController extends Controller
             'phone' => $request->mobile_number,
             'service' => $request->service,
         ];
-        // Send the email
-        Mail::to('pramodsharma2696@gmail.com')->send(new sendQuoteMail($data));
-        // Mail::to(config('mail.from.address'))->send(new sendQuoteMail($data));
-        // Redirect or return response
-        return back()->with('success', 'Your message has been sent successfully!');
+        try {
+            // Send the email
+            Mail::to('pramodsharma2696@gmail.com')->send(new sendQuoteMail($data));
+            // Return a JSON response
+            return response()->json(['success' => true, 'message' => 'Your message has been sent successfully!']);
+        } catch (\Exception $e) {
+            // Handle any exceptions that may occur
+            return response()->json(['success' => false, 'message' => 'Failed to send email. Please try again later.'], 500);
+        }
     }
 }

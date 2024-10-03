@@ -420,7 +420,7 @@
           $("button.get_a_quote_btn").replaceWith("<button type='submit' class='btn btn-sm py-2 px-3 get_a_quote_btn' disabled>Submit Request..</button>");
         },
         success: function(result) {
-          if (result.status == 'success') {
+          if (result.success == true) {
             $("#get_a_quote_form")[0].reset();
             $("#popup_btn_form").css("display", "none");
             toastr.success('E-mail has been send. <br>You will soon get a response on your query');

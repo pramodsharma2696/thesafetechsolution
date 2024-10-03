@@ -26,7 +26,7 @@ class HomeController extends Controller
         ];
         try {
             // Send the email
-            Mail::to('pramodsharma2696@gmail.com')->send(new sendQuoteMail($data));
+            Mail::to('support@thesafetechsolutions.com')->send(new sendQuoteMail($data));
             // Return a JSON response
             return response()->json(['success' => true, 'message' => 'Your message has been sent successfully!']);
         } catch (\Exception $e) {

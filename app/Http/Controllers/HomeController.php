@@ -25,7 +25,7 @@ class HomeController extends Controller
             'service' => $request->service,
         ];
         // Send the email
-        Mail::to(config('pramodsharma2696@gmail.com'))->send(new sendQuoteMail($data));
+        Mail::to('pramodsharma2696@gmail.com')->send(new sendQuoteMail($data));
         // Mail::to(config('mail.from.address'))->send(new sendQuoteMail($data));
         // Redirect or return response
         return back()->with('success', 'Your message has been sent successfully!');

@@ -25,7 +25,8 @@ class sendQuoteMail extends Mailable
 
     public function build()
     {
-        return $this->subject('Service Request from ' . $this->data['name'])
+        return $this->from('support@thesafetechsolutions.com', 'The safetech Solutions')
+                    ->subject('Service Request from ' . $this->data['name'])
                     ->markdown('emails.sendQuoteMail')
                     ->with('data', $this->data);
     }
